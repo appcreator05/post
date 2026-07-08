@@ -1,14 +1,23 @@
 name: TMDB to Blogger
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Run
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run Script
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           BLOG_ID: ${{ secrets.BLOG_ID }}
