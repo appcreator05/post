@@ -8,14 +8,19 @@ async function getNewAccessToken() {
             hostname: 'oauth2.googleapis.com',
             path: '/token',
             method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+            headers: { 
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Content-Length': Buffer.byteLength(data)
+            }
         }, (res) => {
             let body = '';
             res.on('data', (d) => { body += d; });
             res.on('end', () => {
-                const json = JSON.parse(body);
-                if (json.access_token) resolve(json.access_token);
-                else reject(new Error("Token Error: " + body));
+                try {
+                    const json = JSON.parse(body);
+                    if (json.access_token) resolve(json.access_token);
+                    else reject(new Error("Token Error: " + body));
+                } catch(e) { reject(new Error("Parse Error: " + body)); }
             });
         });
         req.on('error', (e) => reject(e));
@@ -38,7 +43,8 @@ async function postToBlogger(movie, token) {
             method: 'POST',
             headers: { 
                 'Authorization': `Bearer ${token}`, 
-                'Content-Type': 'application/json' 
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(postData)
             }
         }, (res) => {
             let response = '';
@@ -49,6 +55,7 @@ async function postToBlogger(movie, token) {
                 resolve();
             });
         });
+        req.on('error', (e) => console.error("Post Error:", e));
         req.write(postData);
         req.end();
     });
