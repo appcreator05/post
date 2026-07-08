@@ -14,12 +14,8 @@ async function getNewAccessToken() {
             res.on('data', (d) => { body += d; });
             res.on('end', () => {
                 const json = JSON.parse(body);
-                if (json.access_token) {
-                    resolve(json.access_token);
-                } else {
-                    console.error("Token Error Response:", body);
-                    reject(new Error("Failed to get access token"));
-                }
+                if (json.access_token) resolve(json.access_token);
+                else reject(new Error("Token Error: " + body));
             });
         });
         req.on('error', (e) => reject(e));
@@ -32,34 +28,26 @@ async function postToBlogger(movie, token) {
     const postData = JSON.stringify({
         kind: "blogger#post",
         title: movie.title,
-        content: `<div class="separator" style="text-align: center;"><img src="https://image.tmdb.org/t/p/w500${movie.poster_path}" border="0" /></div><p>${movie.overview}</p>`
+        content: `<img src="https://image.tmdb.org/t/p/w500${movie.poster_path}"/><br/><p>${movie.overview}</p>`
     });
 
-    const options = {
-        hostname: 'www.googleapis.com',
-        path: `/blogger/v3/blogs/${process.env.BLOG_ID}/posts/`,
-        method: 'POST',
-        headers: { 
-            'Authorization': `Bearer ${token}`, 
-            'Content-Type': 'application/json' 
-        }
-    };
-
     return new Promise((resolve) => {
-        const req = https.request(options, (res) => {
-            let responseData = '';
-            res.on('data', (chunk) => { responseData += chunk; });
+        const req = https.request({
+            hostname: 'www.googleapis.com',
+            path: `/blogger/v3/blogs/${process.env.BLOG_ID}/posts/`,
+            method: 'POST',
+            headers: { 
+                'Authorization': `Bearer ${token}`, 
+                'Content-Type': 'application/json' 
+            }
+        }, (res) => {
+            let response = '';
+            res.on('data', (d) => { response += d; });
             res.on('end', () => {
                 console.log(`Posted: ${movie.title} - Status: ${res.statusCode}`);
-                if (res.statusCode !== 200) {
-                    console.log("Error Detail:", responseData);
-                }
+                if (res.statusCode !== 200) console.log("Detail:", response);
                 resolve();
             });
-        });
-        req.on('error', (e) => {
-            console.error(`Request error: ${e.message}`);
-            resolve();
         });
         req.write(postData);
         req.end();
@@ -68,35 +56,14 @@ async function postToBlogger(movie, token) {
 
 (async () => {
     try {
-        console.log("Process started...");
         const token = await getNewAccessToken();
-        console.log("Token obtained.");
-
-        const options = {
-            hostname: 'api.themoviedb.org',
-            path: `/3/movie/popular?api_key=${process.env.TMDB_KEY}`,
-            method: 'GET'
-        };
-
-        const req = https.request(options, (res) => {
+        https.get(`https://api.themoviedb.org/3/movie/popular?api_key=${process.env.TMDB_KEY}`, (res) => {
             let data = '';
-            res.on('data', (chunk) => { data += chunk; });
+            res.on('data', (d) => { data += d; });
             res.on('end', async () => {
-                const parsed = JSON.parse(data);
-                if (parsed.results) {
-                    console.log(`Found ${parsed.results.length} movies.`);
-                    for (const movie of parsed.results) {
-                        await postToBlogger(movie, token);
-                    }
-                } else {
-                    console.log("API Error / No Data:", data);
-                }
+                const movies = JSON.parse(data).results;
+                for (const movie of movies) await postToBlogger(movie, token);
             });
         });
-        req.on('error', (e) => console.error("Request Error:", e));
-        req.end();
-
-    } catch (e) {
-        console.error("Critical Error: ", e);
-    }
+    } catch (e) { console.error("Critical Error:", e); }
 })();
