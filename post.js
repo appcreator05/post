@@ -68,23 +68,34 @@ async function postToBlogger(movie, token) {
 
 (async () => {
     try {
+        console.log("Process started...");
         const token = await getNewAccessToken();
-        console.log("Token obtained successfully.");
+        console.log("Token obtained.");
 
-        https.get(`https://api.themoviedb.org/3/movie/popular?api_key=${process.env.TMDB_KEY}`, (res) => {
+        const options = {
+            hostname: 'api.themoviedb.org',
+            path: `/3/movie/popular?api_key=${process.env.TMDB_KEY}`,
+            method: 'GET'
+        };
+
+        const req = https.request(options, (res) => {
             let data = '';
             res.on('data', (chunk) => { data += chunk; });
             res.on('end', async () => {
                 const parsed = JSON.parse(data);
                 if (parsed.results) {
+                    console.log(`Found ${parsed.results.length} movies.`);
                     for (const movie of parsed.results) {
                         await postToBlogger(movie, token);
                     }
                 } else {
-                    console.error("TMDB API Error or No results:", data);
+                    console.log("API Error / No Data:", data);
                 }
             });
-        }).on('error', (e) => console.error("TMDB Request Error:", e));
+        });
+        req.on('error', (e) => console.error("Request Error:", e));
+        req.end();
+
     } catch (e) {
         console.error("Critical Error: ", e);
     }
