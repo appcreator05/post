@@ -1,9 +1,8 @@
 name: TMDB to Blogger
-
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -12,11 +11,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
       - name: Run Script
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
@@ -24,4 +18,7 @@ jobs:
           G_CLIENT_ID: ${{ secrets.G_CLIENT_ID }}
           G_CLIENT_SECRET: ${{ secrets.G_CLIENT_SECRET }}
           G_REFRESH_TOKEN: ${{ secrets.G_REFRESH_TOKEN }}
-        run: node post.js
+        run: |
+          echo "Checking files..."
+          ls -la
+          node post.js
