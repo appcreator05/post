@@ -1,5 +1,13 @@
 [
   {
+    "title": "Welcome to the Jungle",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783787533095.jpg",
+    "rating": "5.0",
+    "video": "19Ur3KODwogcSPgpUePTLDbezm1ksVuVn",
+    "cast": "Akshay Kumar, Suniel Shetty, Arshad Warsi, Jacqueline Fernandez, Disha Patani"
+  },
+  {
     "title": "Duplicate",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783786986109.jpg",
