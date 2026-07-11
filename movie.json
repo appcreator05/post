@@ -2,6 +2,14 @@
   {
     "title": "test",
     "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783786237640.jpg",
+    "rating": "5.5",
+    "video": "1X75VlYUlI1NzVHWxqbqrq8iWu35pWL2e",
+    "cast": "resize image"
+  },
+  {
+    "title": "test",
+    "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783785616706.jpg",
     "rating": "3.3",
     "video": "1X75VlYUlI1NzVHWxqbqrq8iWu35pWL2e",
