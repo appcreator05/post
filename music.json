@@ -1,5 +1,19 @@
 [
   {
+    "category": "Hindi 80s Songs",
+    "movie": "Bade Dil Wala 1983 Hindi MP3 Songs",
+    "poster": "https://c.saavncdn.com/505/Bade-Dil-Wala-Hindi-1983-20260112103151-500x500.jpg",
+    "songs": [
+    { "title": "Kahin Na Ja", "id": "1svx36ykQ_QOsqn5crmfARNGoQ49jE5uW" },
+    { "title": "Tujh Main Kya Hai Deewane", "id": "1n5Ui0y5rqmMA45G5CrR-ePi_QYHnPmyE" },
+    { "title": "Aaya Sanam Aaya Deewane Tera", "id": "1uyZDJGBlbPcCOE0mTtvWeQXYkDHMDW3W" },
+    { "title": "Jeevan Ke Din", "id": "1g-FDozyvFGDcpRf0e4UqnGSCP_Knam8N" },
+    { "title": "Kaho Kaise Rasta Bhool Gaye", "id": "1g_4iZ8fe40CoNsxAKaXY15Jorjo5qW3I" },
+    { "title": "Theme Music", "id": "1MzbebGsjosvYZES9ZtQ86uB3NMyo8tLO" },
+    { "title": "Jeevan Ke Din - Male", "id": "1z4hQIDo8Ils3J2lLIKFd9z7r0yTThuR1" }
+  ]
+  },
+  {
     "category": "Bangla Movie",
     "movie": "Apon Amar Apon 1990 Bengali Mp3 Songs",
     "poster": "https://c.saavncdn.com/640/Apan-Aamar-Apan-Bengali-2022-20250825103114-500x500.jpg",
