@@ -1,6 +1,15 @@
 [
   {
     "id": "myapkcreator24",
+    "title": "Danga",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938512033.jpg",
+    "rating": "1.1",
+    "video": "1_OIRjiRUwIchtVVqtyZY8TLKq0aKmh_4",
+    "cast": "Chiranjeet Chakraborty, Sumit Ganguly, Bhaskar Banerjee, Nimu Bhowmick, Dulal Lahiri"
+  },
+  {
+    "id": "myapkcreator24",
     "title": "No Place to Be Single",
     "category": "Hollywood Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938304149.jpg",
