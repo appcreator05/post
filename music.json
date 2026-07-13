@@ -1,57 +1,22 @@
 [
   {
-    "title": "Saawariya",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1ChXQV6JpN2vLrk0rNbT-_rNvKT9lIgbI?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+    "category": "Bangla Movie",
+    "movie": "Apon Amar Apon 1990 Bengali Mp3 Songs",
+    "poster": "https://c.saavncdn.com/640/Apan-Aamar-Apan-Bengali-2022-20250825103114-500x500.jpg",
+    "songs": [
+      { "title": "Mone Bolche Ku Ashbe", "url": "https://www.googleapis.com/drive/v3/files/12FSC-Hs0vbuR1oV-3JBkf9J7WaOH2J4u?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
+	  { "title": "Goon Goon Mor Bhamra", "url": "https://www.googleapis.com/drive/v3/files/1bQv8WzJv0qBrCTfP52PFliISzcFfCJ7W?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
+	  { "title": "Amono Praharo Aashe", "url": "https://www.googleapis.com/drive/v3/files/10z1MFM8Csbk6zsyu0yxpLxpa8S5Z1WVa?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
+      { "title": "Adhare Kokhan Asche", "url": "https://www.googleapis.com/drive/v3/files/1XBdTir4aLVEftQJgaKo0mUFNpDZXKcNr?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" }
+    ]
   },
   {
-    "title": "Sawar Gayi",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1afrVQJ1mIurQ7mhAN6a1t1edFXqR9VSO?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Thoda Badmash",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1RKgUUVKydrIfCfcpEq4BQ2xglcM16sh4?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Yoon Shabnami",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/192vx2cGz-yt9rjFgIrKj0ueYyL3fn910?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Chhabeela",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1OI_Pxn7wmfmllSZ2yS5DZEO8KP50Z-MX?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Daras Bina Chain Nahin",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1R_Q3nCtDQ2w6SIYnngdo1rSxZV-t9AFu?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Jaan E Jaan",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1AWetZg1WZcyLDMHlrna1UKlliMSk4VfJ?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Jab Se Tere Naina",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1-F2_GWDIuzRapzxhIQEA0AS6d7kGiA_U?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Mash Allah",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1hqMsOvIe-OID43Vc-NvZGLN1379-sAWF?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Pari",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1tY0plDOugKDcwhm9M34mpBCe1oZN0kaB?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
-  },
-  {
-    "title": "Saawariya - Reprise",
-    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1783938902131.jpg",
-    "url": "https://www.googleapis.com/drive/v3/files/1nUEJQOGjx_xVNQx-BcUkqv_sFKaKZ6Ge?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+    "category": "Hindi Movie",
+    "movie": "Julie 1975 Hindi MP3 Songs",
+    "poster": "https://c.saavncdn.com/591/Julie-Hindi-2021-20241004165330-500x500.jpg",
+    "songs": [
+      { "title": "Dil Kya Kare Jab Kisi Ko", "url": "https://www.googleapis.com/drive/v3/files/1rpYvEtIBWboXCWCUJ13bVh5SM3cq8-5T?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
+      { "title": "Bhool Gaya Sab Kuch", "url": "https://www.googleapis.com/drive/v3/files/1lPyrgp3tEO1fP7_R1SbExwJYoqt_Pbq1?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" }
+    ]
   }
 ]
