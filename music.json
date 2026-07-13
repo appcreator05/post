@@ -4,19 +4,8 @@
     "movie": "Apon Amar Apon 1990 Bengali Mp3 Songs",
     "poster": "https://c.saavncdn.com/640/Apan-Aamar-Apan-Bengali-2022-20250825103114-500x500.jpg",
     "songs": [
-      { "title": "Mone Bolche Ku Ashbe", "url": "https://www.googleapis.com/drive/v3/files/12FSC-Hs0vbuR1oV-3JBkf9J7WaOH2J4u?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
-	  { "title": "Goon Goon Mor Bhamra", "url": "https://www.googleapis.com/drive/v3/files/1bQv8WzJv0qBrCTfP52PFliISzcFfCJ7W?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
-	  { "title": "Amono Praharo Aashe", "url": "https://www.googleapis.com/drive/v3/files/10z1MFM8Csbk6zsyu0yxpLxpa8S5Z1WVa?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
-      { "title": "Adhare Kokhan Asche", "url": "https://www.googleapis.com/drive/v3/files/1XBdTir4aLVEftQJgaKo0mUFNpDZXKcNr?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" }
-    ]
-  },
-  {
-    "category": "Hindi Movie",
-    "movie": "Julie 1975 Hindi MP3 Songs",
-    "poster": "https://c.saavncdn.com/591/Julie-Hindi-2021-20241004165330-500x500.jpg",
-    "songs": [
-      { "title": "Dil Kya Kare Jab Kisi Ko", "url": "https://www.googleapis.com/drive/v3/files/1rpYvEtIBWboXCWCUJ13bVh5SM3cq8-5T?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" },
-      { "title": "Bhool Gaya Sab Kuch", "url": "https://www.googleapis.com/drive/v3/files/1lPyrgp3tEO1fP7_R1SbExwJYoqt_Pbq1?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0" }
+      { "title": "Mone Bolche Ku Ashbe", "id": "12FSC-Hs0vbuR1oV-3JBkf9J7WaOH2J4u" },
+      { "title": "Goon Goon Mor Bhamra", "id": "1bQv8WzJv0qBrCTfP52PFliISzcFfCJ7W" }
     ]
   }
 ]
