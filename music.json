@@ -245,5 +245,56 @@
         "id": "1grlwbti9Rqf524iIFbigcGN7Mz4eZ065"
       }
     ]
+  },
+  {
+    "category": "Bangla Movie",
+    "movie": "Aashiq Awara 1993 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784046977185.jpg",
+    "songs": [
+      {
+        "title": "Tere Aashiq Hai Hum",
+        "url": "https://www.googleapis.com/drive/v3/files/105u0VOzRVeAnrw6V4OhcPD0deNdwbRVQ?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Main Hoon Aashik Aawara",
+        "url": "https://www.googleapis.com/drive/v3/files/14QiHzYuvdMc5om5Lc9i967Denv0RrtsY?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Aaj Abhi Isi Waqt",
+        "url": "https://www.googleapis.com/drive/v3/files/16wwANbnx0Ul4Zxw3UR4G4x7zL-ODxXGv?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Main Hun Aashiq",
+        "url": "https://www.googleapis.com/drive/v3/files/13mzpFNJiOOxxe87yv8BuyRHa9oecZW1r?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Maine Pyar Kar Liya",
+        "url": "https://www.googleapis.com/drive/v3/files/1JE00gGbojgBlEKCe4AjMGp8sSwKfKVNg?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "O Sanam",
+        "url": "https://www.googleapis.com/drive/v3/files/1qSBXfXtJZXD7pu7AcHD_UhuoYDqPM_Jq?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Amar Mera Suhag Rahe",
+        "url": "https://www.googleapis.com/drive/v3/files/1FQy96adIiTFBBRM6fqvipNkOCXYpF0Qd?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Chand Aur Piya",
+        "url": "https://www.googleapis.com/drive/v3/files/1JddTRCZseqAbmphCqTRCAmJrXKQ6DkoO?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Saat Suro Ke Sangam Se",
+        "url": "https://www.googleapis.com/drive/v3/files/1XDEtvIHxFgk41qJ4_F7WGMXuVn7h1J_h?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Jai Jagdish Hare",
+        "url": "https://www.googleapis.com/drive/v3/files/1lO92tJov9YOf0TOARaaur-clmSqkmNw_?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      },
+      {
+        "title": "Soorat Moorat Se Dhoka",
+        "url": "https://www.googleapis.com/drive/v3/files/1grlwbti9Rqf524iIFbigcGN7Mz4eZ065?alt=media&key=AIzaSyAwS9f57z785lDD9aKedEEJVol_-P518v0"
+      }
+    ]
   }
 ]
