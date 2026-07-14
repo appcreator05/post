@@ -1,5 +1,4 @@
 [
-  
   {
     "category": "Bengali Mp3",
     "movie": "I love you 2007 Bengali Mp3 Songs",
@@ -13,7 +12,6 @@
     { "title": "Mon Mane Na", "id": "1L0ErDMeHjbmAhDLoLMioeSmV5w6uhV-d" }
     ]
   },
-
   {
     "category": "Hindi 80s Songs",
     "movie": "Purana Mandir 1984 Mp3 Songs",
@@ -26,7 +24,6 @@
     { "title": "Shiv Shiv Shankar", "id": "1j79y9ENguYmRjm4jdqo_Go-jxSlLxxqV" }
   ]
   },
-
   {
     "category": "Hindi 80s Songs",
     "movie": "Bade Dil Wala 1983 Hindi MP3 Songs",
@@ -42,12 +39,14 @@
   ]
   },
   {
-    "category": "Bangla Movie",
+    "category": "Bengali Mp3",
     "movie": "Apon Amar Apon 1990 Bengali Mp3 Songs",
     "poster": "https://c.saavncdn.com/640/Apan-Aamar-Apan-Bengali-2022-20250825103114-500x500.jpg",
     "songs": [
-      { "title": "Mone Bolche Ku Ashbe", "id": "12FSC-Hs0vbuR1oV-3JBkf9J7WaOH2J4u" },
-      { "title": "Goon Goon Mor Bhamra", "id": "1bQv8WzJv0qBrCTfP52PFliISzcFfCJ7W" }
+    { "title": "Mone Bolche Ku Ashbe", "id": "12FSC-Hs0vbuR1oV-3JBkf9J7WaOH2J4u" },
+    { "title": "Goon Goon Mor Bhamra", "id": "1bQv8WzJv0qBrCTfP52PFliISzcFfCJ7W" },
+    { "title": "Amono Praharo Aashe", "id": "10z1MFM8Csbk6zsyu0yxpLxpa8S5Z1WVa" },
+    { "title": "Adhare Kokhan Asche", "id": "1XBdTir4aLVEftQJgaKo0mUFNpDZXKcNr" }
     ]
   },
   {
@@ -55,22 +54,10 @@
     "movie": "Naaraaz 1994 Hindi mp3 Songs",
     "poster": "https://c.saavncdn.com/362/Naaraaz-Hindi-1994-20240408213718-500x500.jpg",
     "songs": [
-      {
-        "title": "Kitni Haseen Hai Raat",
-        "id": "1ewvQQX0-Xu-GWHMPen-7e1ywQhlk3VPj"
-      },
-      {
-        "title": "Sambhala Hai Maine",
-        "id": "1Ck2r2mQJMNakFH4p3kh3fbg2pnwO5Sr7"
-      },
-      {
-        "title": "Tere Bin Main Kuch Bhi Nahin",
-        "id": "139qxLVxaXh6KbeUZaUzpkxKIA8mD5Ehz"
-      },
-      {
-        "title": "Agar Aasman Tak Mera",
-        "id": "1jDXrRV6X1m9ThePrzQ0TMmSXuFQQN671"
-      }
+    { "title": "Kitni Haseen Hai Raat", "id": "1ewvQQX0-Xu-GWHMPen-7e1ywQhlk3VPj" },
+    { "title": "Sambhala Hai Maine", "id": "1Ck2r2mQJMNakFH4p3kh3fbg2pnwO5Sr7" },
+    { "title": "Tere Bin Main Kuch Bhi Nahin", "id": "139qxLVxaXh6KbeUZaUzpkxKIA8mD5Ehz" },
+    { "title": "Agar Aasman Tak Mera", "id": "1jDXrRV6X1m9ThePrzQ0TMmSXuFQQN671" }
     ]
-  }
+  },
 ]
