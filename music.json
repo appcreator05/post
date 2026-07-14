@@ -1,4 +1,22 @@
 [
+  {
+    "category": "Hindi 90s Songs",
+    "movie": "Aashiq Awara 1993 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049297987.jpg",
+    "songs": [
+    { "title": "Tere Aashiq Hai Hum", "id": "105u0VOzRVeAnrw6V4OhcPD0deNdwbRVQ" },
+    { "title": "Main Hoon Aashik Aawara", "id": "14QiHzYuvdMc5om5Lc9i967Denv0RrtsY" },
+    { "title": "Aaj Abhi Isi Waqt", "id": "16wwANbnx0Ul4Zxw3UR4G4x7zL-ODxXGv" },
+    { "title": "Main Hun Aashiq", "id": "13mzpFNJiOOxxe87yv8BuyRHa9oecZW1r" },
+    { "title": "Maine Pyar Kar Liya", "id": "1JE00gGbojgBlEKCe4AjMGp8sSwKfKVNg" },
+    { "title": "O Sanam", "id": "1qSBXfXtJZXD7pu7AcHD_UhuoYDqPM_Jq" },
+    { "title": "Amar Mera Suhag Rahe", "id": "1FQy96adIiTFBBRM6fqvipNkOCXYpF0Qd" },
+    { "title": "Chand Aur Piya", "id": "1JddTRCZseqAbmphCqTRCAmJrXKQ6DkoO" },
+    { "title": "Saat Suro Ke Sangam Se", "id": "1XDEtvIHxFgk41qJ4_F7WGMXuVn7h1J_h" },
+    { "title": "Jai Jagdish Hare", "id": "1lO92tJov9YOf0TOARaaur-clmSqkmNw_" },
+    { "title": "Soorat Moorat Se Dhoka", "id": "1grlwbti9Rqf524iIFbigcGN7Mz4eZ065" }
+    ]
+  },
 {
     "category": "Hindi Songs",
     "movie": "Saawariya 2007 Hindi MP3 Songs",
