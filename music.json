@@ -1,1 +1,23 @@
-[]
+[
+  { "category": "Hindi 90s Songs",
+    "movie": "Shreeman Aashique 1993 Hindi Movie Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784047779888.jpg",
+    "songs": [
+      { "title": "Chum Loon Honth Tere",
+        "id": "1xFxbz_hItxOAFl6KOHWE0CcX-lCISsnQ" },
+      { "title": "Ladkiyo Se Na Milo Tum",
+        "id": "1VMg8p5ssXkHnsmkHhNG4QnFnt2wsdfkZ" },
+      { "title": "Aasman Tak Jaa Pahuchengi",
+        "id": "1qmWH00HD0WUgQ0OQd-AjzvwgCAt6nlEL" },
+      { "title": "Abhi To Main Jawan Hoon",
+        "id": "1ZJFv2micgTRptmMTvLo9L5b7T2vs-A6q" },
+      { "title": "Bade Be-sharam Ladke",
+        "id": "1bw906vLHWj9IoCkzxsKjq6y77nRa7GUS" },
+      { "title": "Dekha Jabse Tujhe",
+        "id": "1fuFGREf2Au1r3gbbdVFPli6qOFIwWc1n" },
+      { "title": "Is Se Jyada Dukh Na Koi - II",
+        "id": "1AvVQDf99-l6A0f1Tj71DHuRiUJlWqyGt" },
+      { "title": "Is Se Jyada Dukh Na Koi",
+        "id": "1FCQvJHLgQbpKZk-EWP8AhuBboG894dTV" }
+    ] }
+]
