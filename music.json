@@ -1,6 +1,116 @@
 [
   {
     "category": "Hindi 90s Songs",
+    "movie": "Shreeman Aashique 1993 Hindi Movie Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049445533.jpg",
+    "songs": [
+    { "title": "Chum Loon Honth Tere", "id": "1xFxbz_hItxOAFl6KOHWE0CcX-lCISsnQ" },
+    { "title": "Ladkiyo Se Na Milo Tum", "id": "1VMg8p5ssXkHnsmkHhNG4QnFnt2wsdfkZ" },
+    { "title": "Aasman Tak Jaa Pahuchengi", "id": "1qmWH00HD0WUgQ0OQd-AjzvwgCAt6nlEL" },
+    { "title": "Abhi To Main Jawan Hoon", "id": "1ZJFv2micgTRptmMTvLo9L5b7T2vs-A6q" },
+    { "title": "Bade Be-sharam Ladke", "id": "1bw906vLHWj9IoCkzxsKjq6y77nRa7GUS" },
+    { "title": "Dekha Jabse Tujhe", "id": "1fuFGREf2Au1r3gbbdVFPli6qOFIwWc1n" },
+    { "title": "Is Se Jyada Dukh Na Koi - II", "id": "1AvVQDf99-l6A0f1Tj71DHuRiUJlWqyGt" },
+    { "title": "Is Se Jyada Dukh Na Koi", "id": "1FCQvJHLgQbpKZk-EWP8AhuBboG894dTV" }
+    ]
+  },
+    {
+    "category": "Hindi 90s Songs",
+    "movie": "Aao Pyar Karen 1994 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049529433.jpg",
+    "songs": [
+    { "title": "Chand Se Parda Kijiye", "id": "1eU7nzZMwKeRpyQmRnAERpHYVV-Wlo_ZU" },
+    { "title": "Hathon Mein Aa Gaya Romaal", "id": "1b0t-WTDqYwt4SjLRpGcWyr0r7z9RvvlV" },
+    { "title": "Jab Do Dil Milte Hein", "id": "11UV64K0o3Ga67JCawXkp4T-Un9igsTQQ" },
+    { "title": "Kyun Phool Khilte Hein", "id": "1cLiVIVt34dB86ofJqZSaLpLBHgjHpWq7" },
+    { "title": "Oui Maa Yeh Kya Ho Gaya", "id": "1i8UWeH9jylH0kK15gcfm9JDzNDVtM_J1" },
+    { "title": "Zinda Hain Jo Log Mohabbat", "id": "14dnCu2-ZqXLi7rBf02r4iiv-zhutl6yN" }
+    ]
+  },
+    {
+    "category": "Hindi 90s Songs",
+    "movie": "Naaraaz 1994 Hindi mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049591419.jpg",
+    "songs": [
+    { "title": "Kitni Haseen Hai Raat", "id": "1ewvQQX0-Xu-GWHMPen-7e1ywQhlk3VPj" },
+    { "title": "Sambhala Hai Maine", "id": "1Ck2r2mQJMNakFH4p3kh3fbg2pnwO5Sr7" },
+    { "title": "Tere Bin Main Kuch Bhi Nahin", "id": "139qxLVxaXh6KbeUZaUzpkxKIA8mD5Ehz" },
+    { "title": "Agar Aasman Tak Mera", "id": "1jDXrRV6X1m9ThePrzQ0TMmSXuFQQN671" }
+    ]
+  },
+    {
+    "category": "Bhakti Sangeet",
+    "movie": "Shyama Sangeet Anuradha Paudwal Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049666218.jpg",
+    "songs": [
+    { "title": "Aamaar Chetona", "id": "1LUwn28Xz1y3o8t6zd4Tm2Cuongh77lix" },
+    { "title": "Aamaar Shadh Na Mitilo", "id": "1raOYgdnn3Usd06NuKDH0bkM4g10Yap6B" },
+    { "title": "Aami Jodi Bhool Kori Maa", "id": "1Lqi0cZHK_xaa2i2XPGzGrVK7L1BYfb5w" },
+    { "title": "Aami Montro Tontro", "id": "1RmiZCh1mczLPOXhuGjQUawyg2pGz1not" },
+    { "title": "Apaar Sansaar Nahi", "id": "141utSxvhEeulyKXcXe2e0YGdNB3Kga2v" },
+    { "title": "Bhebe Dekh Mon", "id": "1WBUJqthrwOc4vTFU63kjLpXzknkDiiYm" },
+    { "title": "Chai Na Maago", "id": "1QDdNSKNqj5zyl7IG6flbun6v6l_CyD-i" },
+    { "title": "Dosh Karo Noy Go Maa", "id": "1LRuyx0PQpNYvO950wWMl8318Cf9x3-8l" },
+    { "title": "Jenechhi Jenechhi Tara", "id": "1Up02TzzgKGtE9Wh7gLZExUhNaD_-POuG" },
+    { "title": "Maa, Tor Koto Rongo", "id": "14PkoPKwn8YYWyXdOs8blTVH3B2qF1D-l" },
+    { "title": "Maago Anandomoyee", "id": "1Spexl838CLX6KGbALMf83kEH3TyvIpR-" },
+    { "title": "Maago, Shomoy To Thakbe", "id": "1ZmSydPugTvsBvoazExb2yRQ3OaWysbcn" },
+    { "title": "Maayer Paye Joba Hoye", "id": "17DJKU7k9nPaiFYJRt13HvjlVmArZ6Cuy" },
+    { "title": "Maye Murti Gorate Chai", "id": "1nC7GOmSlo1CU3BXaKcz_ID21DrZswS09" },
+    { "title": "Shokoli Tomari Ichchha", "id": "1USnsqBMvFQMvAfv7xFxnCvW087NKliyt" },
+    { "title": "Shoto Naame Koto Jone", "id": "1HNivZoii6xsUHRDZ8ykeBMqdqfAMcmGq" }
+    ]
+  },
+    {
+    "category": "Bhakti Sangeet",
+    "movie": "Gayatri Mantra Om Bhur Bhuva Swaha 108",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049739285.jpg",
+    "songs": [
+    { "title": "Gayatri Mantra 108", "id": "1eZM3iKk_tjuQga6vhvEcXw-oyKNFYXeP" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Sohni Mahiwal 1984 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049864933.jpg",
+    "songs": [
+    { "title": "Bol Do Mithe Bol Soneya", "id": "1Gb-Tdjh2eNKuYCYRWen6BC7Yv0x4M2q4" },
+    { "title": "Sohni Meri Sohni", "id": "1IjrP-_I45nCJVHpE44Y1pDCuqcbj9bsW" },
+    { "title": "Sohni Chenab De Kinare", "id": "149LIRCMi_SGmdgsOb6KWSP__OXjLOmgp" },
+    { "title": "Mujhe Dulhe Ka Sehra Gane Do", "id": "1cq5grAn3_tXFeNN6NLmh_glUq-dR8yx6" },
+    { "title": "Chand Ruka Hai", "id": "1BBxV7RtbqsOxp8VeZ6HXX15k_PTxlP9f" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Pukar 1983 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049925103.jpg",
+    "songs": [
+    { "title": "Bachke Rehna Re Baba", "id": "1WWx-DYsiGu2yViOnZgxquOMKCHc17yzN" },
+    { "title": "Jaane Jigar Duniya Mein Tu Sabse", "id": "1syHavMxSxZOPdq_5myK7wycwCY431Syf" },
+    { "title": "Samundar Mein Nahake Aur Bhi Namkeen Ho Gayi", "id": "15B88oY2dZdZU3CCvX63KsnnuVy7gIheH" },
+    { "title": "Marenge Ya Mar Jayenge", "id": "1JnlkSw1NcTRIGb6X7aY8QVvDVUUXzBcB" },
+    { "title": "Tu Maike Mat Jaiyo", "id": "1XZl84akCgFGKp9jKr-1JKArFooBf2hN_" },
+    { "title": "Tu Mere Liye", "id": "1pCxWDycTEwbWq_lqCArtVk_VO7AJ68lf" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Karma 1986 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049974762.jpg",
+    "songs": [
+    { "title": "Aye Watan Tere Liye", "id": "1tovzgDuJFlezv9-i3dvfVntvb1XuX5iw" },
+    { "title": "Maine Rab Se Tujhe", "id": "1j3aNg1ttvnVSxBx-2G-Cu7Fc6LtYgu6W" },
+    { "title": "Aye Mohabbat Teri Dastan", "id": "166qHg9OnMa3PU5mGYz7zsZI9JoiHRxMF" },
+    { "title": "Aye Sanam Tere Liye", "id": "1Ga3Uew5wBV4DGcWXv90YqdKNPLICoP_b" },
+    { "title": "De Daru", "id": "1i1ihg8jzwj7r61CbOkX_bPvNoeRkwvOS" },
+    { "title": "Mera Karma Tu", "id": "1dy5avKH8cu663aeovFXAEnO9Oo4Kj_2-" },
+    { "title": "Na Jaiyo Pardes", "id": "1YHnT8KgPxRCAsRuDclCf_p1E4d5W9c6C" },
+    { "title": "Karma Introduction", "id": "14SPUOTH5V__2VVlnGM552r0uQVlZN7Ee" }
+    ]
+  },
+  {
+    "category": "Hindi 90s Songs",
     "movie": "Aashiq Awara 1993 Hindi MP3 Songs",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784049297987.jpg",
     "songs": [
