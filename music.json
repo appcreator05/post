@@ -1,4 +1,258 @@
 [
+  {
+    "category": "Hindi 90s Songs",
+    "movie": "Qayamat Se Qayamat Tak 1988 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784051781541.jpg",
+    "songs": [
+    { "title": "Akele Hain To Kya Ghum", "id": "1bZSNCU47w4xRIeGsitWnz34crPEPgEO5" },
+    { "title": "Aye Mere Humsafar", "id": "1D9dQsH-3NVeMB1YvZ66XNKJDSJGJp5cP" },
+    { "title": "Ghazab Ka Hai Din", "id": "17gg326YZSV_VZD2_OKhRmeh-QOG31xKu" },
+    { "title": "Kahe Sataye", "id": "1KNqrsy-q1abFWqiybdG_14joDmmjggvY" },
+    { "title": "Papa Kehte Hain - Sad", "id": "15udMz8nH1VWesFkFVy6xfIF5T732kDiW" },
+    { "title": "Papa Kehte Hain", "id": "1lW6AYQ5JFGwkQR9bxkUcOrL2biJ22djD" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Kaalia 1981 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784051847301.jpg",
+    "songs": [
+    { "title": "Tum Saath Ho Jab Apne", "id": "1pPMfI_XRsWXL5fjwSDmXTn8jKpI4i6Ch" },
+    { "title": "Jab Se Tumko Dekha", "id": "1Ff_oSNM3UX8-vDnmbmaCSF1Ze51IC5Wl" },
+    { "title": "Jahan Teri Ye Nazar", "id": "1jiRwFW2c2NxXNg1lpcW4XDHecyKUXLXv" },
+    { "title": "Dil To Dete Nahin", "id": "1pCt8IQzn_VwB3xgYEBQZoAoeTsmdvpn8" },
+    { "title": "Geet Suno ge Huzoor", "id": "1JT5Fza7yKlTOPp6C1m_DAIqSwF4Krjwg" },
+    { "title": "Kaun Kisi Ko", "id": "1npu7O9eo5d5BhTBecitlNP0bCGjqyI4v" },
+    { "title": "Sanam Tum Jahan", "id": "1l4x_MFFRe5uMmh4NlxmKfkoInzny4dMi" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Saagar 1985 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784051902654.jpg",
+    "songs": [
+    { "title": "Saagar Jaisi Aankhon Wali", "id": "19m3u9Mq_THDM95Fm8an6GZu4ueI6NV1w" },
+    { "title": "O Maaria", "id": "1hp3GqRP24euJFKcYl_Iozq3cioFx6xri" },
+    { "title": "Jaane.. Do.. Na..", "id": "1Z0yCeNyz1DZZCSC5-kDviij93PW8vXyt" },
+    { "title": "Saagar Kinaare", "id": "1ixUmm5kHOt1jd1KSGQsx9IaREbQbktFb" },
+    { "title": "Sach Mere Yaar Hai", "id": "1Nw4vKCp89Q5VTim5lvSv_BbqVC7LAl8l" },
+    { "title": "Yunhi Gaate Raho", "id": "1enXIEBFhJhHp83DHRU9rJF8RsfGsLPhE" },
+    { "title": "Saagar Kinaare - Female", "id": "1d2S5LIsWQFPj4KDlJ3z4WFDChmMeNZ8O" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Yaarana 1981 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784051962684.jpg",
+    "songs": [
+    { "title": "Chukar Mere Mann Ko", "id": "13l7cAVhF91vSL-DvZMAJX38roruihO2D" },
+    { "title": "Sara Zamana", "id": "12NnPK11UDwiiL1U5JO-J5uaTkzMkzaBC" },
+    { "title": "Kishan Chacha", "id": "1Xn9DNCFRykQCa0zlmuhsTu55LJn7-2Qo" },
+    { "title": "Tere Jaisa Yaar Kahan", "id": "1vC8bgA5zSoaKCeYmw8QBHbCa8lqI7Xpx" },
+    { "title": "Bole o Bole", "id": "11yzufGIuHrwPjojTkIi7_LXsWd1ucfX8" },
+    { "title": "Tu Rootha", "id": "1aTFUKAodZhppkMX220XmNNw-Vn0Cn0om" }
+    ]
+  },
+    {
+    "category": "Hindi 90s Songs",
+    "movie": "Ram Lakhan 1989 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052081341.jpg",
+    "songs": [
+    { "title": "Mujhe Tumse He Kitne Gile", "id": "1p3hld9Aq60vMWGwe4PzzA8xVY7a1voKf" },
+    { "title": "My Name Is Lakhan", "id": "1FADeR1cbVEaGJkQe2b4Ts2e75gtojQl5" },
+    { "title": "O Ramji Bada Dukhdena", "id": "1lQuMk3eeqZvj9wYXHIK-mIGGWP9SGFNn" },
+    { "title": "O Be Khabar", "id": "1w3pUT8Wd7CTldMT0ACKhZH7jMaGwUxpt" },
+    { "title": "Mere Do Anmol Ratan - Part I", "id": "12rSvm-QioEHyYY2Lzg9o24slth3HH_Ll" },
+    { "title": "Main Hoon Hero", "id": "1oYaarhl_KP_ouPTn95RIBAWNdoE18wfI" },
+    { "title": "Mere Do Anmol Ratan - Part II", "id": "1TKWbm5mtpbNyL3cLGpMEYfUhkFVn5_B6" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Pyar Jhukta Nahin 1985 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052134477.jpg",
+    "songs": [
+    { "title": "Tumse Milkar Na Jane", "id": "1JwNUFjPt_4qpwIf9OacbjSOpcRE1s6JU" },
+    { "title": "Ho Dilbar Janiye", "id": "1vDKsJgdfBGdSe1R0WLu9Lj5EqJyNhOi6" },
+    { "title": "Tumhein Apna Sathi", "id": "1H8j7jG5xTZJxxfFdE2C8AybeBkZxzc_P" },
+    { "title": "Chahe Lakh Toofan Ayen", "id": "1YI9N3CKOL5RGL9QD3U3EpIuHMwFfawhs" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Commando 1988 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052185705.jpg",
+    "songs": [
+    { "title": "Maine Maine Tujhe Tujhe", "id": "11rYsHZxpaHhp98njbDszOOvnLprCRv68" },
+    { "title": "Commando Commando", "id": "1L67l6XfI_OcKqEpzF4w48SE5j8GOMVm7" },
+    { "title": "Hum Mile Apse Kuch Hogay", "id": "1H6JoCTR8fTTBVf7Y1oPYp9ZgZ8l6BZ6C" },
+    { "title": "O Mere Apne O Mere Sapne", "id": "1lt1xiHJpY3o-6BXKD0s-wNx1qX_1Xdnl" },
+    { "title": "Kishor da apbhi gayena", "id": "1ZdrguWCLK2OcMD_v9ox4OP9NB-SCJqoy" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Mahaan 1983 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052255270.jpg",
+    "songs": [
+    { "title": "Pyaar Mein Dil Pe Maar De", "id": "1kUIQ459fTdaJ6CMtpi3iCEpwhL1X04o1" },
+    { "title": "Yeh Din To Aata Hai", "id": "1PEoXm5DWiqs0GsGF7KUCq6MdKOXdLB7-" },
+    { "title": "Jidher Dekhoon", "id": "1_7jlIwy4lEjYJihimqzeJWlALkgpaxt2" },
+    { "title": "Aadhi Baat Ho Chuki", "id": "1PS8aPL58b3_ZJl8w2RbptcUdrVjqkrkH" },
+    { "title": "Asli Kya Hai Nakli Kya Hai", "id": "1UuZBRU4s9g5O4ntZSZlAyPumlGark3uK" },
+    { "title": "Har Chhori Rani Hiyaan", "id": "1w2zvBc2gQidk9XRmipuzxcvi_h6jxV8u" },
+    { "title": "Jidher Dekhoon 2", "id": "1MI4S9HBiZAIKwyjmMongolX4mSWo6rRB" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Shaan 1980 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052348408.jpg",
+    "songs": [
+    { "title": "Dosti Se Pyaar Kiya", "id": "1s-sO_bhcgvBLmc9VgVMF0arWUxyC1rQu" },
+    { "title": "Pyaar Kerne Wale", "id": "13kUXWPNGOwQP7EjqiT1SGC3idcgamS6D" },
+    { "title": "Janu Meri Jaan", "id": "15wloDdHyersKTCfTK6zjKt3zhglKFlCV" },
+    { "title": "Naam Abdul Hai Mera", "id": "1HwZVDuATyVsKPWAFvS5Feqnne-YJbRNb" },
+    { "title": "Yamma Yamma", "id": "1NZ4IrhnJXGwwFT10Vp9XoCzW6xs8lft8" },
+    { "title": "Dariya Mein Jahaz Chale", "id": "1cryLhlOI9ZgWQ4CLg5yBbUjikZ8lC_Yt" },
+    { "title": "Mittua", "id": "10F71jzil98PoJNdy84xj7-pyHiDqsciA" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Rocky 1981 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052405181.jpg",
+    "songs": [
+    { "title": "Kya Yahi Pyar Hai", "id": "1jjJzCbC5ew7EFm_twV0xMtEAVK2l2juR" },
+    { "title": "Doston Ko Salaam", "id": "18kEmHnXyFw6hx2MSxXweq9LcnNMKlzuM" },
+    { "title": "Hum Tumse Mile", "id": "1HbNsdhcovbAn-NS4LpcuZ82KL0UB_DNY" },
+    { "title": "Aao Mere Yaro Aao", "id": "1fmSfczgh9wvSZ6juMM8zo_3BHQ4dhRfx" },
+    { "title": "Aa Dekhen Zara", "id": "1R2euMJc6-8FfE7Fn78erOzRKmj0FRyA_" },
+    { "title": "Geet Sunoge Huzoor", "id": "1P1boC0Cgn_ZaPPGN90dthX3rLkta42xe" },
+    { "title": "Dance Music", "id": "1uPYP7wbSlPMurqVxBnEnmjdoGKy6mDcW" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Shahenshah 1988 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052456572.jpg",
+    "songs": [
+    { "title": "Jane Do Jane Do Muihe", "id": "1BrJTnPfW2BIVstLhf95uHFt8-L9YulML" },
+    { "title": "Hoga Thanedaar Tu", "id": "1-Lz8A5bTLi4Dh2MB_1MQlJeBTB6DJy97" },
+    { "title": "Anderi Rato Main", "id": "11lCxwu7ljM8NGRjYpTmjf546UnkV-kvU" },
+    { "title": "Hai You Gardish Mein Jab Jaam Aayenge", "id": "18HFGp5z2ZkYaf1_8pU3SSL-NsQsZ-6Wd" },
+    { "title": "O Bahena", "id": "1_8qzcgXHpOkTsCIdVHJuqW2EBghyGyCX" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Tezaab 1988 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052506467.jpg",
+    "songs": [
+    { "title": "Aik Do Teen", "id": "1lH22zNK2xD5cn5iOtQ89ZtsJpurnDeuO" },
+    { "title": "Kehdo Ke Tum Ho Meri Warna", "id": "1hc_Z7zYk0Uc1PX9dSfARvidrSzZys9ZT" },
+    { "title": "So Gaya Yeh Jahan", "id": "1A_XpdhEbzR6ZA3XTn8f3rDohDpPJlXBr" },
+    { "title": "Aik Do Teen - Male", "id": "1cHPSZwB23SpQHOFDlqxl3hNdTdI7YgCq" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "ChaalBaaz 1989 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052558956.jpg",
+    "songs": [
+    { "title": "Tera Bemar Mera Dil", "id": "1m809FOO5xzGoz3ec0P02l3bEIlSl11Ht" },
+    { "title": "Bhoot Raja", "id": "1O_6cIgrTVK0iaULn4dL2QQl0LphJEzoF" },
+    { "title": "Gadbad Ho Gayee", "id": "1UG3dTTAIZ6WEj5fuT0WhZFNUeV_bxTqf" },
+    { "title": "Na Jane Kahan Se", "id": "1QbuvgOal3TzdThhfGhTOYIz8WoeB9T5n" },
+    { "title": "Naam Mera Premkali", "id": "11bTdwgR2Hg4kxy9aDTWPmZX0Lq2Em6I1" },
+    { "title": "Tandav", "id": "1HvUve_-wsDC84fRNlTFEoqNEcm4hn3d2" },
+    { "title": "Dance Music", "id": "1R1wOreokahrzeqAXspIPnx6HJDSKyYtx" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Coolie 1983 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052608570.jpg",
+    "songs": [
+    { "title": "Saari Duniya Ka Bojh", "id": "1PLz_RCCttTUWWKW6CHCfVGB1mJH-3ruo" },
+    { "title": "Donon Jawani Ki Masti", "id": "1j6FE1FyG_Zq01kA5HeMt0yTQ9_fgz5oI" },
+    { "title": "Jawani Ki Rail", "id": "11pbGXB7N1DHSiHE_iuHIs_1e6hQgze6s" },
+    { "title": "Lamboo Jee", "id": "1BVOdS2oQ4QSPGgyO3ZCCt_kvllhzDBH7" },
+    { "title": "Mubarak Ho", "id": "1TUwk8QlfGUSh9RJFVKiib1uV7989fNFJ" },
+    { "title": "Mujhe Peene Ka Shauq Nahi", "id": "1HEt5KFSrTK0-M1fcVP3I342g93qUDWjI" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Waqt Ki Awaz 1988 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052672856.jpg",
+    "songs": [
+    { "title": "A Guru Aa Jao", "id": "1X6FTYSMeLVqja_n1QWj-nWgY5HOe9BG0" },
+    { "title": "Ladki Akeli Tu Bhi Akela", "id": "1co8GScyN2t1TKa2H1CzCc3b8uJcVKlPX" },
+    { "title": "Ladki Ke Dil Ya", "id": "1BHTD2X_pwWSN4Vy5DyqWM8DZ0Flpwfd6" },
+    { "title": "Pyaar Chahiye Kitni Baar", "id": "15X8ZiAh06I-BVjJC3zcQFUWl-L5e9SEb" },
+    { "title": "Tu Bhi Bekaraar", "id": "1O9C9IJ5LNNG4-ad9xpGWF1jBd4w7g11E" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Desh Premee 1982 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052735525.jpg",
+    "songs": [
+    { "title": "Mere Desh Premiyo", "id": "15EgoC3RRxYdKreABx4QRFkdXo1Zjb4mJ" },
+    { "title": "Ja Jaldi Bhag Ja", "id": "18dCDcJI9tCKhOsIYm-7GGZS0w3hO8Kb7" },
+    { "title": "Jao Ji Jao", "id": "1WR4UX_VAu9ALpiB3XnY4U4WOIsu3qDOg" },
+    { "title": "Khaton Ki Hum Khidmat Mein", "id": "1i8hZRJ-bzasEnnQWE4gaNZtCXsCOc-pC" },
+    { "title": "Gore Nahi Hum Kaale Sahi", "id": "1a6spiRGtC51u-SZZFLq-8blRkQdJq4O9" },
+    { "title": "O Bekhabar Bedardi", "id": "1BnY9Z31yLcODO3Qnrl90nlXXmjzwg4ji" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Muddat 1986 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052785757.jpg",
+    "songs": [
+    { "title": "Pyar Hamara Amar Rahega", "id": "1TjQdhP12xpyzgRbL8QNXOqFpy0UZ7uEn" },
+    { "title": "Mujhko Kehte Hai Romeo", "id": "1HzrDzQt59M6ZOO0oa2rll-IVqpAFfxrF" },
+    { "title": "Utho Behno Kali Banke", "id": "1u-f8iDQhsobBH1-YJ-2BIP2kvXkEIQM7" },
+    { "title": "Love Express With Commentary", "id": "1bu8cuGhYSMwDXvaqu_7KIHU5TDKaetg2" },
+    { "title": "Pedo Ko Gali Dene Do", "id": "1nJDS2tYK-yiTl3eLNnnmvv42CkUIX9QT" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Mr. India 1987 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052834352.jpg",
+    "songs": [
+    { "title": "Hawa Hawaii", "id": "1T1WbzxIQtYLgz2JhxsZ3AYC1xhbsRX7w" },
+    { "title": "Karte Hain Hum Pyaar Mr. India Se", "id": "13ieXApZL3sG4IkhMDu0aSvd7pbgK4VDB" },
+    { "title": "Antakshari", "id": "10368SVuec6AyBtF7QfGafloQ2iNISCV0" },
+    { "title": "Zindagi Ki Yehi Reet Hai", "id": "1o3nF-JYmgN0sG_-TScIqA1LnKFgefiaw" },
+    { "title": "Kate Nehi Katty Din E Rat", "id": "1jbetExiuxqwWbqNvaSTos_gXa1ut_IbS" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Alibaba Aur 40 Chor 1980 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784052894691.jpg",
+    "songs": [
+    { "title": "Khatouba Khatouba", "id": "10Ax1sWP2TC6ZUZC_Y2EEtujwMjD0JITg" },
+    { "title": "Sare Shaher Mein", "id": "1np_x3V8zxvPeO2YX5Cg1nElPEstBb1DS" },
+    { "title": "Jadugar Jadoo Kar Jayega", "id": "1i19TTW37t_K7fP3O_rFgNojiwYqEy8Kf" },
+    { "title": "Qayamat Qayamat", "id": "11BriWoQRktRz8EStCoMNGlLcUw1ARkGf" },
+    { "title": "Aaja Sarebazar", "id": "1PybJHo_lYWkLUoh8dlasEWiigwFBI_7U" },
+    { "title": "Music - Alibaba Aur 40 Chor", "id": "1oICoky_y41I_qsSGYUnjH-YMuS2bcUEx" }
+    ]
+  },
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Veerana 1988 Hindi Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784053010326.jpg",
+    "songs": [
+    { "title": "Sathi Mere Sathi", "id": "1Vhp3bhAkHeVeySqAZKv4Zti58n8KSIBN" },
+    { "title": "Dil Ki Dhadkan Kya Kahe", "id": "1xe9PwFM7JOclhRHiCtad_ZXHA8LEewLG" }
+    ]
+  },
     {
     "category": "Hindi 80s Songs",
     "movie": "Silsila 1981 Hindi Mp3 Songs",
