@@ -1,6 +1,15 @@
 [
   {
     "id": "kajolstorege19",
+    "title": "O'Romeo",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784210950913.jpg",
+    "rating": "5.6",
+    "video": "1UbJP9NU3EOvug4IJPdw63OEIfvnm7Gwi",
+    "cast": "Shahid Kapoor, Triptii Dimri, Avinash Tiwary, Nana Patekar, Hussain Dalal"
+  },
+  {
+    "id": "kajolstorege19",
     "title": "Wanted: Girlfriend",
     "category": "Tagalog Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784210912176.jpg",
