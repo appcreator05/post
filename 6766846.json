@@ -1,4 +1,17 @@
 [
+    {
+    "category": "Hindi 80s Songs",
+    "movie": "Namak Halaal 1982 Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784484829132.jpg",
+    "songs": [
+    { "title": "Aaj Rapat Jaayen To", "id": "1YqPLjyj8MtcNSCTGyBthJN9UIuLqnrbO" },
+    { "title": "Jawani Jan E Man", "id": "1t8wM99OYXsEw7sWzSUGZDgcuOMZOgSgR" },
+    { "title": "Pag Ghungaru Bandh", "id": "1e7Kg0OGXeVdFQzK6ON0fLwfth7C2D-Zl" },
+    { "title": "Pag Ghunghroo Baandh", "id": "15B8BAIyuJphT33-g6lijKVZVwJuNW6lB" },
+    { "title": "Raat Baaqi Baat Baaqi", "id": "1ogjIOVEpRzFj68pkX5D7dZNLuOetv1eO" },
+    { "title": "Thori Se Jo Peeli Hai", "id": "17CiCUpMXVCyq3Yx5DL0UV4BySan2UkXu" }
+    ]
+  },
   {
     "category": "Hindi Albums",
     "movie": "Romantic Love Mp3 Songs",
