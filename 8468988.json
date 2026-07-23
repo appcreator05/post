@@ -1,6 +1,15 @@
 [
   {
     "id": "kajolstorege15",
+    "title": "Company 2002",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784837570825.jpg",
+    "rating": "7.0",
+    "video": "1epIhg-jYmqEAVydygP-10Tyv5r6PKbge",
+    "cast": "Ajay Devgn, Vivek Oberoi, Mohanlal, Manisha Koirala, Antara Mali"
+  },
+  {
+    "id": "kajolstorege15",
     "title": "The Buckingham Murders 2024",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784837511406.jpg",
