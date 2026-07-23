@@ -1,4 +1,18 @@
 [
+      {
+    "category": "Hindi 80s Songs",
+    "movie": "Souten 1983  Mp3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1784835032482.jpg",
+    "songs": [
+    { "title": "Zindagi Pyar Ka Geet Haimale", "id": "1nWJp5SEz3fZLTKJ1wmSZ3jM8SNFHXD43" },
+    { "title": "Shayad Meri Shaadi ka Khayal", "id": "1z6VaKVHp4a9mAz8mt2aHYBiQLzMccz9L" },
+    { "title": "Jab Apne Ho Jayen", "id": "11qEvst2vk3zGlwYFvPpKUkmjHr45mnf-" },
+    { "title": "Sasu Tirath Sasura Tirath", "id": "1_14nM6pLVGY0ElKHpiYwVwUdIX8q7hhZ" },
+    { "title": "Meri Pahle Hi", "id": "1AuUfr8x_PyXmUYjKjvknpAn5E-LBRji_" },
+    { "title": "Zindagi Pyar Ka Geet Hai Female", "id": "15d12N-LqRkCzYoOTnvkTgm90BoXQ8v0y" },
+    { "title": "Main Teri Chhoti Bahna Hoon", "id": "1jfWG7l2u1ZUDc8Kpwvi-C9WTGBoDOgNV" }
+    ]
+  },
     {
     "category": "Hindi 80s Songs",
     "movie": "Namak Halaal 1982 Mp3 Songs",
