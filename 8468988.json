@@ -1,6 +1,15 @@
 [
   {
     "id": "kajolstorege2",
+    "title": "Dil Chahta Hai",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784823352590.jpg",
+    "rating": "6.9",
+    "video": "1GyAutP1T1aZXk3axUkMIBIHaoMU6DQxd",
+    "cast": "Aamir Khan, Akshaye Khanna, Saif Ali Khan, Preity Zinta, Dimple Kapadia"
+  },
+  {
+    "id": "kajolstorege2",
     "title": "Sui Dhaaga - Made in India",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784823313111.jpg",
@@ -42,7 +51,7 @@
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784823123967.jpg",
     "rating": "6.2",
     "video": "1VgtWQyIOTaFEXaKeqFfaGDFf3HGCYFEV",
-    "cast": "Rachelle Lefevre, Stephen Moyer, Luis GuzmÃÂÃÂÃÂÃÂ¡n, Ed Quinn, Lorna Raver"
+    "cast": "Rachelle Lefevre, Stephen Moyer, Luis GuzmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡n, Ed Quinn, Lorna Raver"
   },
   {
     "id": "kajolstorege18",
