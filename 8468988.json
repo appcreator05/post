@@ -1,12 +1,21 @@
 [
   {
+    "id": "kajolstorege9",
+    "title": "Love Story 1981",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784902485627.jpg",
+    "rating": "6.8",
+    "video": "1zCUxun6qCmx0bPvxxW9JjnlvAXB7bkO4",
+    "cast": "Kumar Gaurav, Vijayata Pandit, Danny Denzongpa, Rajendra Kumar, Amjad Khan"
+  },
+  {
     "id": "myplaylab105",
     "title": "The Cloverfield Paradox 2018",
     "category": "Hollywood Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784902395754.jpg",
     "rating": "5.6",
     "video": "1QocNMz46rZ8Kt9vrGFEfD6b2ZJUc6Dlv",
-    "cast": "Gugu Mbatha-Raw, Daniel Brühl, Chris O'Dowd, David Oyelowo, John Ortiz"
+    "cast": "Gugu Mbatha-Raw, Daniel BrÃ¼hl, Chris O'Dowd, David Oyelowo, John Ortiz"
   },
   {
     "id": "kajolstorege9",
