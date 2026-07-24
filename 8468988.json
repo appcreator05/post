@@ -1,12 +1,21 @@
 [
   {
     "id": "kajolstorege10",
+    "title": "Happy New Year 2014",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784919936795.jpg",
+    "rating": "6.1",
+    "video": "1JXJSFacrzYDa6HWMXkoDGdU_LJLWea-V",
+    "cast": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan, Sonu Sood, Boman Irani"
+  },
+  {
+    "id": "kajolstorege10",
     "title": "Before Sunset 2004",
     "category": "Hollywood English Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784919881330.jpg",
     "rating": "7.8",
     "video": "1wpGcMzJq7_Zsm21Gp3cc2OFDJtdUJv5E",
-    "cast": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès, Rodolphe Pauly"
+    "cast": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine TorrÃ¨s, Rodolphe Pauly"
   },
   {
     "id": "kajolstorege10",
@@ -15,7 +24,7 @@
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1784919831385.jpg",
     "rating": "8.1",
     "video": "14gSh9koKC2LFgAspDw41QWO_DnRERmX5",
-    "cast": "TimothÃ©e Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin"
+    "cast": "TimothÃÂ©e Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin"
   },
   {
     "id": "kajolstorege10",
