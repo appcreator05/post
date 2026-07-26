@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore14",
+    "title": "Ashite Ashiona 1967",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071338372.jpg",
+    "rating": "0.0",
+    "video": "1v1eroK6EQnbWS7VQodKtOsWFPNfiuOVE",
+    "cast": "Bhanu Banerjee, Astibaran, Rabi Ghosh, Jahar Roy, Tarun Kumar"
+  },
+  {
+    "id": "myskdstore14",
     "title": "Big Brother 2007",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071295398.jpg",
@@ -10,7 +19,7 @@
   },
   {
     "id": "myskdstore14",
-    "title": "BrahmÄstra Part One: Shiva 2022",
+    "title": "BrahmÃÂstra Part One: Shiva 2022",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071257335.jpg",
     "rating": "6.3",
