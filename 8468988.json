@@ -1,5 +1,14 @@
 [
   {
+    "id": "myskdstore14",
+    "title": "Prateek 1988",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071562799.jpg",
+    "rating": "6.5",
+    "video": "1H7kqutHIM6v5WdpPCWd1OmtRb4BrvLhG",
+    "cast": "chiranjeet chakraborty, roopa ganguly, tapas paul, rakhee gulzar, soumitra chatterjee, chiranjit"
+  },
+  {
     "id": "myskdstore1",
     "title": "Dak Bangla 1987",
     "category": "Horror Hindi Dubbed",
