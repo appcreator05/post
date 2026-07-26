@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Loveyatri 2018",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098485225.jpg",
+    "rating": "5.5",
+    "video": "1bBubFEJOFcipgPEcsUTnlB2TXnkog-WB",
+    "cast": "Aayush Sharma, Hira Warina, Kamil Lemieszewski, Dilyana Bouklieva, Hiten Patel"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Luka Chuppi 2019",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098443793.jpg",
