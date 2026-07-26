@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Vikram 2022",
+    "category": "South Indian Hindi",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097994780.jpg",
+    "rating": "7.6",
+    "video": "1l9ZaABjImZewyUSalf2xs1q8rrFwpxHw",
+    "cast": "Kamal Haasan, Fahadh Faasil, Vijay Sethupathi, Narain, Chemban Vinod Jose"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Waaris 1988",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097953657.jpg",
