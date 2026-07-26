@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore14",
+    "title": "Sister 1977",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785070224736.jpg",
+    "rating": "6.9",
+    "video": "1wgJKcgQlOJmzR2sZGb1w_y3VH8zjrMYo",
+    "cast": "uttam kumar, supriya, utpal dutta"
+  },
+  {
+    "id": "myskdstore14",
     "title": "Veerta 1993",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785070024126.jpg",
