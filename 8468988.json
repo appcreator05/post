@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore13",
+    "title": "Bhoothnath 2008",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097559376.jpg",
+    "rating": "6.2",
+    "video": "1wkpiqaDC0ekQv2odUKtiJIMv5cbFMf3z",
+    "cast": "Amitabh Bachchan, Aman Siddiqui, Juhi Chawla Mehta, Shah Rukh Khan, Rajpal Yadav"
+  },
+  {
+    "id": "myskdstore13",
     "title": "Amar Akbar Anthony 1977",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097493830.jpg",
