@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore13",
+    "title": "Maa 1976",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785090868356.jpg",
+    "rating": "7.5",
+    "video": "1sBzTXXlbVWtfGipqnp0J4cLfJDtbfjEV",
+    "cast": "dharmendra, hema malini, nirupa roy, om prakash, ranjeet, padma khanna, paintal, brahmachari"
+  },
+  {
+    "id": "myskdstore13",
     "title": "Maa 1992",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785090625119.jpg",
