@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore13",
+    "title": "Haathi Mere Saathi 1971",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785092466778.jpg",
+    "rating": "7.1",
+    "video": "1GLKkV22VM-C8tsE4LbqzQOaaDQZ7pqH5",
+    "cast": "Rajesh Khanna, Tanuja Samarth, David Abraham Cheulkar, Sujit Kumar, K.N. Singh"
+  },
+  {
+    "id": "myskdstore13",
     "title": "Jai Kishen 1994",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785092276048.jpg",
