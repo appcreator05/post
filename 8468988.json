@@ -1,5 +1,14 @@
 [
-    {
+  {
+    "id": "kajolstorege4",
+    "title": "Galpo Holeo Satti 1966",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785062746211.jpg",
+    "rating": "5.5",
+    "video": "1Zye0bSNOBIc7oi5zAp3O3_Lk1Ff-WXjx",
+    "cast": "rabi ghosh, jogesh chattapadhyay, prasad mukhopadhyay, chaya devi, bankim ghosh, bharati devi"
+  },
+  {
     "id": "kajolstorege20",
     "title": "Amar Tumi 1989",
     "category": "Bengali Movie",
