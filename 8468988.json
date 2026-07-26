@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Muskaan 2004",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098361725.jpg",
+    "rating": "7.7",
+    "video": "1OfM8QEhYZsH3w6KE6hMHfqM2hZ-2Ad2H",
+    "cast": "Aftab Shivdasani, Gracy Singh, Parvin Dabas, Vrajesh Hirjee, Razak Khan"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Naya Daur 1957",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098317357.jpg",
