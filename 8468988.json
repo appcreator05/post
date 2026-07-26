@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Waaris 1988",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097953657.jpg",
+    "rating": "8.4",
+    "video": "1RSSXumUIb5g_BuoVHkFPI94CS8owfr8t",
+    "cast": "Smita Patil, Amrita Singh, Raj Babbar, Raj Kiran, Amrish Puri"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Bobby 1973",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785097889800.jpg",
