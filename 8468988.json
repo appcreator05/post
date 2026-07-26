@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore14",
+    "title": "Mouchak 1974",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071663273.jpg",
+    "rating": "8.1",
+    "video": "1QMVdbB2PXJzs1S9ykKE_UTc7ISfNoGPo",
+    "cast": "uttam kumar, sabitri chatterjee, ranjit mullick, mithu mukherjee, anup kumar, chinmoy roy, robi ghosh"
+  },
+  {
+    "id": "myskdstore14",
     "title": "Prateek 1988",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785071562799.jpg",
