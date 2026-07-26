@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Mujhse Shaadi Karogi 2004",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098403608.jpg",
+    "rating": "6.5",
+    "video": "1XO2-3brAO1A7bFaUHB3uw2UwxEehh6tr",
+    "cast": "Salman Khan, Priyanka Chopra Jonas, Akshay Kumar, Amrita Arora, Amrish Puri"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Muskaan 2004",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098361725.jpg",
