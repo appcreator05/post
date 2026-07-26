@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Lamhe 1991",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098529144.jpg",
+    "rating": "6.7",
+    "video": "1qV_phwp9n1dj97hMYKW-MSnQTx4DrCdH",
+    "cast": "Anil Kapoor, Sridevi, Waheeda Rehman, Anupam Kher, Lalit Tiwari"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Loveyatri 2018",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785098485225.jpg",
