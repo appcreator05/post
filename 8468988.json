@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Ek Duuje Ke Liye 1981",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785155635107.jpg",
+    "rating": "8.0",
+    "video": "1O2eAyP6VhxD8pXXiMvw7m8Ered_G8yir",
+    "cast": "Kamal Haasan, Rati Agnihotri, Madhavi, Rakesh Bedi, Poornam Viswanathan"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Ghazab Tamasha 1992",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785155389976.jpg",
