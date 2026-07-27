@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Ghazab Tamasha 1992",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785155389976.jpg",
+    "rating": "6.5",
+    "video": "1YonFVDovdUwDNfdIpe6aJMVbEDvh66Bs",
+    "cast": "rahul roy, deepak tijori, anu aggarwal, tanuja, aruna irani, kulbhushan kharbanda, satyajeet puri, ranjeet"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Genius 2018",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785153990367.jpg",
