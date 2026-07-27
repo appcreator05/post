@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore12",
+    "title": "Bichhoo 2000",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785170375714.jpg",
+    "rating": "4.6",
+    "video": "1xHBK_aUSokkxhWjL0fFJrOe51yT_5rGm",
+    "cast": "Bobby Deol, Rani Mukerji, Ashish Vidhyarthi, Malaika Arora, Farida Jalal"
+  },
+  {
+    "id": "myskdstore12",
     "title": "Chalti Ka Naam Gaadi 1958",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785170330607.jpg",
