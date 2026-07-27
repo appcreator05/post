@@ -1,5 +1,14 @@
 [
   {
+    "id": "myskdstore",
+    "title": "Dulaara 1994",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785170183648.jpg",
+    "rating": "6.0",
+    "video": "1B0FM2ua0pdAmTMD7tjJQORNwbecpn9iR",
+    "cast": "Govinda, Karisma Kapoor, Ranjeet Bedi, Farida Jalal, Satyajeet Puri"
+  },
+  {
     "id": "myskdstore12",
     "title": "Ek Duuje Ke Liye 1981",
     "category": "Bollywood Classic Movie",
