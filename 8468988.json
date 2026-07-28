@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Safar 1970",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785269810640.jpg",
+    "rating": "7.3",
+    "video": "1LICunHH500aKOpyWTfs_x6veCRFcNYXQ",
+    "cast": "ashok kumar, sharmila tagore, rajesh khanna, feroz khan, i. s. johar, aruna irani, nadira, nandita thakur, mahesh kothare"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Journey 1970",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785269684063.jpg",
