@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Naaraaz 1994",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785270062883.jpg",
+    "rating": "6.3",
+    "video": "1eJnPjAv66K_QYd3NjW381uQD5N9bwmbx",
+    "cast": "Mithun Chakraborty, Atul Agnihotri, Pooja Bhatt, Sonali Bendre, Gulshan Grover"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Namak Halaal 1982",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785270021973.jpg",
