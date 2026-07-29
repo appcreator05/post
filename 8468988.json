@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Swarga Martya 1958",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342814754.jpg",
+    "rating": "0.0",
+    "video": "1K9Mih7V-1_mbMQw1LSovZyg5e4f9ryDH",
+    "cast": "Bhanu Banerjee, Jiben Bose, Manju Dey, Shila Pal, Tulsi Chakraborty"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Yoddha 2014",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342769646.jpg",
