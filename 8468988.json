@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "English Vinglish 2012",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785345630748.jpg",
+    "rating": "7.2",
+    "video": "1p4XLuo23TEvhDxMnP5ci4fxDabCBjuE4",
+    "cast": "Sridevi, Mehdi Nebbou, Sujata Kumar, Priya Anand, Adil Hussain"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Haseena Maan Jaayegi 1999",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785345597164.jpg",
@@ -15,7 +24,7 @@
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785345559829.jpg",
     "rating": "6.9",
     "video": "1y17SnqH7MGYfc8E8P1oBXCh8uFojipBG",
-    "cast": "Jackie Chan, John Cena, Pilou AsbÃ¦k, Amadeus Serafini, Jiang Wenli"
+    "cast": "Jackie Chan, John Cena, Pilou AsbÃÂ¦k, Amadeus Serafini, Jiang Wenli"
   },
   {
     "id": "myskdstore9",
