@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "Sanyasi 1975",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344581933.jpg",
+    "rating": "6.6",
+    "video": "14CQ0VZbwj1RnGzSpZjRzLXHTRd3v-dBJ",
+    "cast": "Manoj Kumar, Hema Malini, Premnath Malhotra, Prem Chopra, Aruna Irani"
+  },
+  {
+    "id": "myskdstore9",
     "title": "The Legend of Bhagat Singh 2002",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344545250.jpg",
