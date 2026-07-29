@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Coolie 2004",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343621142.jpg",
+    "rating": "5.5",
+    "video": "1hETNREt9c-rv26kCfhubiuV1nYh-hf88",
+    "cast": "mithun chakraborty, shibnath roy, kalyani mandal, mrs. chowdhury, abhishek chatterjee, subhasish mukhopadhyay, dulal lahiri, mr. shashank chowdhury, ramen roy chowdhuri"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Ghatak 2006",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343516002.jpg",
