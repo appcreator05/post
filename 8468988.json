@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Pratiggya 1975",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344389261.jpg",
+    "rating": "5.5",
+    "video": "1pFC8i93W39GwokxOa3wg8Q2rKpEtVGvb",
+    "cast": "Dharmendra, Hema Malini, Ajit Khan, Satyendra Kapoor, Abhi Bhattacharya"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Rajkumar 1964",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344340257.jpg",
