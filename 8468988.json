@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Ziddi 1997",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342451643.jpg",
+    "rating": "5.8",
+    "video": "1OSocfQItGRym1C6oundrgW1GrNs5bfXm",
+    "cast": "Sunny Deol, Raveena Tandon, Anupam Kher, Farida Jalal, Beena Banerjee"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Bhai 1997",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342418409.jpg",
