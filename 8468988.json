@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "M.L.A. Fatakesto 2006",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343157582.jpg",
+    "rating": "7.6",
+    "video": "1RI_9y1Qf4lHjFYmqxj5r_KsOHkmJff_z",
+    "cast": "Mithun Chakraborty, Debashree Roy, Soumitra Chatterjee, Koel Mallick, Rajatabha Dutta"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Naach Nagini Naach Re 1996",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343109654.jpg",
