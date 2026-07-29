@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "I Love You 2007",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343467036.jpg",
+    "rating": "5.2",
+    "video": "1SPC0HdKuEqi_h-fCEryuf1_NHW1NGmJ5",
+    "cast": "Dev, Paayel Sarkar, Tapas Paul, Arun Bannerjee, Paoli Dam"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Mahajan 1990",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343194165.jpg",
