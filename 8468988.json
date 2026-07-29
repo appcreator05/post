@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Daag: The Fire 1999",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341388460.jpg",
+    "rating": "5.8",
+    "video": "1qo-rWAZB86eFCHZYiteLY-ZUHoJ-isS1",
+    "cast": "Sanjay Dutt, Chandrachur Singh, Mahima Chaudhry, Shakti Kapoor, Sushma Seth"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Dharam Veer 1977",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341165519.jpg",
