@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Bhai 1997",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342418409.jpg",
+    "rating": "5.6",
+    "video": "1-4CeggewqnWw_ZzE_hoyBrGkEI8rtnTI",
+    "cast": "Suniel Shetty, Kunal Khemu, Sonali Bendre, Pooja Batra, Kader Khan"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Hum Hain Kamaal Ke 1993",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342371496.jpg",
