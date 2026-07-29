@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Fanaa 2006",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341082471.jpg",
+    "rating": "6.8",
+    "video": "1bADHXnmrkh6g68btZ7igDOvV5wjlDEWY",
+    "cast": "Aamir Khan, Kajol, Rishi Kapoor, Kirron Kher, Sanaya Irani"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Indrajeet 1991",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341045197.jpg",
