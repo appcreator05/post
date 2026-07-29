@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Itihaas 1997",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342334468.jpg",
+    "rating": "8.5",
+    "video": "16JUUfBqz2dBC7zKDHVbC42i4HRJ--pvg",
+    "cast": "Ajay Devgn, Twinkle Khanna"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Black 2005",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342299493.jpg",
