@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Jaanam 1992",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341007330.jpg",
+    "rating": "5.8",
+    "video": "1wykTXYlkbqQdzgqt8iHsq5TXh1OtAg3q",
+    "cast": "Rahul Roy, Pooja Bhatt, Paresh Rawal, Reema Lagoo, Vikram Gokhale"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Jaani Dushman 1979",
     "category": "Horror Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785340965450.jpg",
