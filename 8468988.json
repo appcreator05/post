@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Disco Dancer 1982",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342061996.jpg",
+    "rating": "6.0",
+    "video": "1b3nlrfMJNuFPBbCKFmSyIuCnToWZiBok",
+    "cast": "Mithun Chakraborty, Kim, Rajesh Khanna, Om Puri, Gita Siddharth"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Waqt Ki Awaz 1988",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342022995.jpg",
