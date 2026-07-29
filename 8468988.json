@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Loveria 2013",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342716079.jpg",
+    "rating": "6.9",
+    "video": "1eB20jMf1F-JOcob2SvpNtIi8jNtmWbHz",
+    "cast": "soham chakraborty, biswanath basu, puja banerjee, sweety, rajatava dutta, shantimoy mukherjee, arindam dutta, macho kartik, samidh mukerjee"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Ziddi 1997",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342451643.jpg",
