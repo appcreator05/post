@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Ahankar 1991",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344186180.jpg",
+    "rating": "9.0",
+    "video": "1GUzmNBJMvI7eeugnoKeXB6k2KU6uu3GH",
+    "cast": "Prosenjit Chatterjee, Debashree Roy, Ranjit Mallick, Anup Kumar, Utpal Dutt"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Apon Por 1992",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344147940.jpg",
