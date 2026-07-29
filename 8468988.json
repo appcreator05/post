@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore11",
+    "title": "Aitraaz 2004",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341946966.jpg",
+    "rating": "6.1",
+    "video": "19m3A3t2mZImdY8GcYHq6IaXtPdLkl5Rq",
+    "cast": "Akshay Kumar, Kareena Kapoor Khan, Priyanka Chopra Jonas, Amrish Puri, Paresh Rawal"
+  },
+  {
+    "id": "myskdstore11",
     "title": "Albela 2001",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785341905781.jpg",
