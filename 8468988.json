@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "Khel 1992",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344967331.jpg",
+    "rating": "6.4",
+    "video": "1RmGtUJi_cmBJdER-j_bHolzzMbARplWB",
+    "cast": "Anil Kapoor, Madhuri Dixit, Prem Chopra, Anupam Kher, Sonu Walia"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Maari 2 2018",
     "category": "South Indian Hindi",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344918842.jpg",
