@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Yoddha 2014",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342769646.jpg",
+    "rating": "4.5",
+    "video": "1IjepKhRrRAs2Q92oVO9aEaHAWDMvRSVA",
+    "cast": "Dev, Mimi Chakraborty, Nigel Akkara, Rajatabha Dutta, Kanchan Mullick"
+  },
+  {
+    "id": "myskdstore10",
     "title": "Loveria 2013",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785342716079.jpg",
