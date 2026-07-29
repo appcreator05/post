@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Ghatak 2006",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343516002.jpg",
+    "rating": "10.0",
+    "video": "1LzXUaX0a-HnvpXAJ9-7tMGxjnIJhIfxH",
+    "cast": "Jeet, Koel Mallick, Anamika Saha, Rajatabha Dutta, Tapas Paul"
+  },
+  {
+    "id": "myskdstore10",
     "title": "I Love You 2007",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343467036.jpg",
