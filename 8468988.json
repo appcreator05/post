@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore10",
+    "title": "Mahajan 1990",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343194165.jpg",
+    "rating": "0.0",
+    "video": "19QTF7Dfn_gqwvLbs-EQ_3vyEzsJ0Bbi5",
+    "cast": "Utpal Dutt, Ranjit Mallick, Sandhya Roy, Chumki Choudhury, Tapas Paul"
+  },
+  {
+    "id": "myskdstore10",
     "title": "M.L.A. Fatakesto 2006",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785343157582.jpg",
