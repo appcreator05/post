@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore8",
+    "title": "Teen Murti 1984",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785346289989.jpg",
+    "rating": "5.5",
+    "video": "1Yr4A6HHWNhCMvYQWkaTTno7K2z_CQIfn",
+    "cast": "dharmendra, mithun chakraborty, danny denzongpa, pran, zeenat aman, shoma anand, beena banerjee, amrish puri, ranjeet, sujit kumar, praveen kumar, iftekhar, kamal kapoor, bharat bhushan, priti sapru, birbal, asit sen, ashalata wabgoankar, azaad irani, macmohan, bob christo"
+  },
+  {
+    "id": "myskdstore8",
     "title": "Welcome 2007",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785346169013.jpg",
