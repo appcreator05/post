@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "The Legend of Bhagat Singh 2002",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344545250.jpg",
+    "rating": "7.2",
+    "video": "1XJy_bfZ2r5GzSC0Q_RYxkpaYSiccZWOt",
+    "cast": "Ajay Devgn, Amrita Rao, Sushant Singh, Akhilendra Mishra, D. Santosh"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Yeshwant 1997",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344503338.jpg",
