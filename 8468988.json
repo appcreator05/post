@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "Mr. Natwarlal 1979",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344706531.jpg",
+    "rating": "6.1",
+    "video": "1wM5hBb8S6GQ7o87DCEnLqPJJhTj3juGl",
+    "cast": "Amitabh Bachchan, Rekha, Kader Khan, Goga Kapoor, Amjad Khan"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Piku 2015",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344667642.jpg",
