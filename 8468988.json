@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "Maharaja 1998",
+    "category": "Bollywood 90s Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344786156.jpg",
+    "rating": "5.2",
+    "video": "162MV9_QnLsLfGNegUXDoOWHuMrgTr-te",
+    "cast": "Govinda, Manisha Koirala, Raj Babbar, Salim Ghouse, Shakti Kapoor"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Majboor 1974",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344746552.jpg",
