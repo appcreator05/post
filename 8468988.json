@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore9",
+    "title": "Piku 2015",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344667642.jpg",
+    "rating": "7.1",
+    "video": "1qbheY8fXpZIiAA044-QolRBGdPYRcb2J",
+    "cast": "Deepika Padukone, Amitabh Bachchan, Irrfan Khan, Moushumi Chatterjee, Raghubir Yadav"
+  },
+  {
+    "id": "myskdstore9",
     "title": "Purab Aur Pachhim 1970",
     "category": "Bollywood Classic Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785344630268.jpg",
