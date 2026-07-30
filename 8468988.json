@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore8",
+    "title": "An Evening in Paris 1967",
+    "category": "Bollywood Classic Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406882688.jpg",
+    "rating": "6.0",
+    "video": "1B8Fq8f8JkUt5ldYOzdG264hxH9SRXaTr",
+    "cast": "Shammi Kapoor, Sharmila Tagore, K.N. Singh, Pran Sikand, David Abraham Cheulkar"
+  },
+  {
+    "id": "myskdstore8",
     "title": "Bahadur 1989",
     "category": "Bengali Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406833395.jpg",
@@ -46,7 +55,7 @@
   },
   {
     "id": "myskdstore8",
-    "title": "Golmaal ÃÂ¢ÃÂÃÂ Fun Unlimited 2006",
+    "title": "Golmaal ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Fun Unlimited 2006",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406309265.jpg",
     "rating": "6.7",
