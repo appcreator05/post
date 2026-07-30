@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore8",
+    "title": "Geet Sangeet 1994",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406442705.jpg",
+    "rating": "5.3",
+    "video": "1pRaO7YIDV-xFSGS_rVhWp4N_KuRN6Sah",
+    "cast": "ranjit mallick, subhendu chatterjee, savitri chatterjee, abhishek chatterjee, chumki choudhury"
+  },
+  {
+    "id": "myskdstore8",
     "title": "Golmaal – Fun Unlimited 2006",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406309265.jpg",
