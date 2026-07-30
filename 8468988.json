@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore8",
+    "title": "Loafer 1997",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785405977271.jpg",
+    "rating": "4.5",
+    "video": "1A5I5n9eRM0JLQQYVAbJP_B_7okT8BkCp",
+    "cast": "ranjit mallick, chumki choudhury, biplab chatterjee, rabi ghosh, lokesh ghosh, shubhendu chattopadhyay, shankar chakraborty"
+  },
+  {
+    "id": "myskdstore8",
     "title": "Meri Jung 1985",
     "category": "Bollywood 90s Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785405670961.jpg",
