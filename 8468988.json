@@ -1,6 +1,15 @@
 [
   {
     "id": "myskdstore8",
+    "title": "Bahadur 1989",
+    "category": "Bengali Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406833395.jpg",
+    "rating": "4.2",
+    "video": "1JMGzw1F-b_mvyXphK11vH1WVcXFpkFZw",
+    "cast": "archana, pavan malhotra, m.v. vasudeva rao, biplab chatterjee, rajeswari roychowdhury, danny denzongpa"
+  },
+  {
+    "id": "myskdstore8",
     "title": "Chaahat Ek Nasha... 2005",
     "category": "Bollywood Hindi Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1785406687017.jpg",
