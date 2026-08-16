@@ -1,4 +1,18 @@
 [
+        {
+    "category": "Hindi 90s Songs",
+    "movie": "Rudaali 1993 Hindi MP3 Songs",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1786891794161.jpg",
+    "songs": [
+    { "title": "Dil Hoom Hoom Kare (Female)", "id": "1kf7oyhlUztmxrFTxb7QX2MPY72wnhEOz" },
+    { "title": "Jhooti Mooti Mitwa Aawan Bole", "id": "1kMquHYbNvkM-luiayBJp9TmhfcKUqpE8" },
+    { "title": "Betain Na Betain Na Raina", "id": "1r_dOzqMoEEtQR0Oe1XjWJVKo3IbDum5c" },
+    { "title": "Dil Hoom Hoom Kare (Male Version)", "id": "1JLW62ZbqeXDBNMgAEomv_YyqhNhBMExy" },
+    { "title": "Moula, O Moula", "id": "1sOD65wCnTplb6gYsWgJk8m4SoFxLw6md" },
+    { "title": "Samay O Dhire Chalo (Female)", "id": "11iu0xqg79HnoIs4j4KySWAL7afs6RLKz" },
+    { "title": "Samay O Dhire Chalo (Male)", "id": "1Gw-CoLjWZH26g8U4CSkVYIeOE2jEkqla" }
+    ]
+  },
       {
     "category": "Hindi 80s Songs",
     "movie": "Souten 1983  Mp3 Songs",
