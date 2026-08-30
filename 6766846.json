@@ -1,4 +1,17 @@
 [
+          {
+    "category": "Hindi 90s Songs",
+    "movie": "Love 1991",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/au/1788119813649.jpg",
+    "songs": [
+    { "title": "Saathiya Tune Kya Kiya", "id": "1FKi_GSrFRlE35mg1OuCyxNs0nML2d_Hw" },
+    { "title": "Aaja Aaja Give Me A Kiss", "id": "1jhta0YdZIn5TVCWqtxMq69djY7VkhigI" },
+    { "title": "Aai Bahar Khilte Hai Gul", "id": "186RF8UxKOtqtOwnT-uPgZiHfpuw8OaZa" },
+    { "title": "We Are Made For Each Other", "id": "13CgQ_9vsx3KeCGx2Nm4aPwVSibOk0ps4" },
+    { "title": "Priyatama", "id": "1bXx2ebj_D-GDc7XV8BIy9Xs2H9Y5c0bt" },
+    { "title": "I Am Sorry", "id": "1yXztpye5kGRBvgGih4u-hlA_E3I17V6Q" }
+    ]
+  },
         {
     "category": "Hindi 90s Songs",
     "movie": "Rudaali 1993 Hindi MP3 Songs",
