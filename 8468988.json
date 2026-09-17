@@ -1,5 +1,14 @@
 [
   {
+    "id": "debasis",
+    "title": "Debug 2014",
+    "category": "Tagalog Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1789678402317.jpg",
+    "rating": "4.5",
+    "cast": "Jeananne Goossen, Adrian Holmes, Adam Butcher, Jason Momoa, Kyle Mac",
+    "drc": "https://github.com/movieapp05/sps/releases/download/dsp/vdo7.mp4"
+  },
+  {
     "id": "kajolstorege21",
     "title": "Hungry 2026",
     "category": "Hollywood Hindi Dubbed",
