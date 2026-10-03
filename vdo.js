@@ -3,6 +3,15 @@ const IMAGE_BASE_URL = "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/";
 
 let allMovies = [
     {
+    "id": "kajolstorege21",
+    "title": "Hungry 2026",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1790710689286.jpg",
+    "rating": "7.0",
+    "link": "go:mm15",
+    "cast": "Madison Davenport, Tracey Bonner, Joaquim de Almeida, Michel Curiel, Samantha Coughlan, Olivia Bernstone, Jim Meskimen,"
+},
+    {
         "title": "Speed Demon 2026",
         "category": "Horror Hindi Dubbed",
         "poster": "1786443523455.jpg",
