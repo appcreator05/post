@@ -2,253 +2,67 @@
 const IMAGE_BASE_URL = "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/";
 
 let allMovies = [
-    {
+{
+    "id": "kajolstorege21",
+    "title": "Robin Hood 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1790710906565.jpg",
+    "rating": "5.9",
+    "link": "go:dev2",
+    "cast": "Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson, Jamie Dornan, Tim Minchin, Paul Anderson, F. Murray Abraham,"
+},
+{
     "id": "kajolstorege21",
     "title": "Hungry 2026",
-    "category": "Bollywood Hindi Movie",
+    "category": "Hollywood Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1790710689286.jpg",
     "rating": "7.0",
-    "link": "go:mm15",
+    "link": "go:dev3",
     "cast": "Madison Davenport, Tracey Bonner, Joaquim de Almeida, Michel Curiel, Samantha Coughlan, Olivia Bernstone, Jim Meskimen,"
 },
-    {
-        "title": "Speed Demon 2026",
-        "category": "Horror Hindi Dubbed",
-        "poster": "1786443523455.jpg",
-        "rating": "4.861",
-        "link": "go:mm30",
-        "cast": "Katie Cassidy, William H. Macy, John Patrick Jordan, Michael Emery, Allen McCullough, Sabrina Schlegel-Mejia, Noriko Sato, Ray Faiola, Jeremy Feight, Michael John Improta"
-    },
-    {
-        "title": "Night Bus 2017",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786443459920.jpg",
-        "rating": "8.000",
-        "link": "go:mm29",
-        "cast": "Teuku Rifnu Wikana, Alex Abbad, Yayu Unru, Torro Margens, Edward Akbar, Tino Saroengallo, Abdurrahman Arif, Laksmi Notokusumo, Lukman Sardi, Tio Pakusadewo"
-    },
-    {
-        "title": "Reign of Terror 1949",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786443380665.jpg",
-        "rating": "6.833",
-        "link": "go:mm28",
-        "cast": "Robert Cummings, Richard Basehart, Richard Hart, Arlene Dahl, Arnold Moss, Norman Lloyd, Charles McGraw, Beulah Bondi, Jess Barker, Walter Bacon"
-    },
-    {
-        "title": "Ragini MMS 2 2014",
-        "category": "Bollywood Hindi Movie",
-        "poster": "1786443308929.jpg",
-        "rating": "4.713",
-        "link": "go:mm27",
-        "cast": "Sunny Leone, Saahil Prem, Parvin Dabas, Sandhya Mridul, Divya Dutta, Soniya Mehra, Anita Hassanandani Reddy, Karan Veer Mehra, Karan Taluja, Kainaz Motivala"
-    },
-    {
-        "title": "Mean Girls 2024",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786443236750.jpg",
-        "rating": "5.855",
-        "link": "go:mm26",
-        "cast": "Angourie Rice, Reneé Rapp, Auliʻi Cravalho, Jaquel Spivey, Avantika, Bebe Wood, Christopher Briney, Jenna Fischer, Busy Philipps, Tina Fey"
-    },
-    {
-        "title": "Killer Kate! 2018",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786443053361.jpg",
-        "rating": "3.942",
-        "link": "go:mm25",
-        "cast": "Alexandra Feld, Danielle Burgess, Amaris Davidson, Abby Eiland, Tiffany Shepis, Grant Lyon, Robert Donavan, Brandon Bales, Preston Flagg, Ashton Jordann Ruiz"
-    },
-    {
-        "title": "Pirates of the Caribbean: Dead Man's Chest 2006",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786442924479.jpg",
-        "rating": "7.388",
-        "link": "go:mm24",
-        "cast": "Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport, Bill Nighy, Jonathan Pryce, Lee Arenberg, Mackenzie Crook, Kevin McNally, David Bailie"
-    },
-    {
-        "title": "Sin City: A Dame to Kill For 2014",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786442789442.jpg",
-        "rating": "6.403",
-        "link": "go:mm23",
-        "cast": "Jessica Alba, Bruce Willis, Mickey Rourke, Josh Brolin, Joseph Gordon-Levitt, Eva Green, Rosario Dawson, Powers Boothe, Dennis Haysbert, Ray Liotta"
-    },
-    {
-        "title": "Mean Girls 2 2011",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786442515969.jpg",
-        "rating": "5.244",
-        "link": "go:mm22",
-        "cast": "Meaghan Jette Martin, Jennifer Stone, Maiara Walsh, Nicole Gale Anderson, Claire Holt, Diego Boneta, Bethany Anne Lind, Patrick Johnson, Colin Dennard, Amber Brooke"
-    },
-    {
-        "title": "Roop Ki Rani Choron Ka Raja 1993",
-        "category": "Bollywood 90s Movie",
-        "poster": "1786442423935.jpg",
-        "rating": "5.667",
-        "link": "go:mm21",
-        "cast": "Anil Kapoor, Sridevi, Anupam Kher, Paresh Rawal, Jackie Shroff, Bindu, Dalip Tahil, Johny Lever, Aanjjan Srivastav, Arun Bakshi"
-    },
-    {
-        "title": "The 12 Disasters of Christmas 2012",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786442328058.jpg",
-        "rating": "4.567",
-        "link": "go:mm20",
-        "cast": "Ed Quinn, Magda Apanowicz, Holly Dignard, Roark Critchlow, Greg Kean, Brenna O'Brien, Christine Willes, Ryan Grantham, Andrew Airlie, Kaj-Erik Eriksen"
-    },
-    {
-        "title": "Welcome to the Jungle 2026",
-        "category": "Bollywood Hindi Movie",
-        "poster": "1786442240145.jpg",
-        "rating": "5.080",
-        "link": "go:mm19",
-        "cast": "Akshay Kumar, Suniel Shetty, Arshad Warsi, Jacqueline Fernandez, Disha Patani, Raveena Tandon, Jackie Shroff, Paresh Rawal, Lara Dutta, Farida Jalal"
-    },
-    {
-        "title": "Duplicate 1998",
-        "category": "Bollywood 90s Movie",
-        "poster": "1786441644930.jpg",
-        "rating": "6.100",
-        "link": "go:mm18",
-        "cast": "Shah Rukh Khan, Juhi Chawla Mehta, Sonali Bendre, Mohnish Behl, Tiku Talsania, Sharat Saxena, Gulshan Grover, Kajol, Vishwajeet Pradhan, Farida Jalal"
-    },
-    {
-        "title": "The Fall Guy 2024",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786441578211.jpg",
-        "rating": "6.952",
-        "link": "go:mm17",
-        "cast": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham, Teresa Palmer, Stephanie Hsu, Winston Duke, Ben Knight, Matuse, Adam Dunn"
-    },
-    {
-        "title": "Krrish 3 2013",
-        "category": "Bollywood Hindi Movie",
-        "poster": "1786441510540.jpg",
-        "rating": "5.644",
-        "link": "go:mm16",
-        "cast": "Hrithik Roshan, Priyanka Chopra Jonas, Vivek Oberoi, Kangana Ranaut, Arif Zakaria, Asif Basra, Rajpal Yadav, Rakhee Tandon, Sameer Ali Khan, Gowhar Khan"
-    },
-    {
-        "title": "Hate Story 2 2014",
-        "category": "Bollywood Hindi Movie",
-        "poster": "1786441417106.jpg",
-        "rating": "4.338",
-        "link": "go:mm15",
-        "cast": "Sushant Singh, Surveen Chawla, Jay Bhanushali, Siddharth Kher, Rajesh Khera, Sunny Leone, Neha Kaul, Shashank Shende, Bikramjeet Kanwarpal"
-    },
-    {
-        "title": "Unli Pop 2025",
-        "category": "Tagalog Movie",
-        "poster": "1786441321430.jpg",
-        "rating": "5.700",
-        "link": "go:mm14",
-        "cast": "Micaella Raz, Marco Gomez, Julianne Richards, JD Aguas, Reina Castillo, Zsa Zsa Zobel, Adriana Roces, Lyka Casaje, Raguel Torda, Lucky Jay De Guzman"
-    },
-    {
-        "title": "Angkinin Mo Ako 2026",
-        "category": "Tagalog Movie",
-        "poster": "1786441100143.jpg",
-        "rating": "0.000",
-        "link": "go:mm13",
-        "cast": "Cess Garcia, Sheena Cole, Juan Calma, Dara Lima, Sarah Pulido"
-    },
-    {
-        "title": "cute girls",
-        "category": "Tagalog Movie",
-        "poster": "https://raw.githubusercontent.com/appcreator05/my12/refs/heads/main/file/tagalo.jpg",
-        "rating": "4.500",
-        "link": "go:mm12",
-        "cast": "cute girls"
-    },
-    {
-        "title": "What Death Leaves Behind 2018",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786441000169.jpg",
-        "rating": "4.500",
-        "link": "go:mm11",
-        "cast": "Christopher Mann, Vincent Young, Kelly Dowdle, Erin O'Brien, Johnny Alonso, Alexandra Tydings, Jesse Bradley"
-    },
-    {
-        "title": "The Odyssey 2026",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1786440705616.jpg",
-        "rating": "8.000",
-        "link": "go:mm10",
-        "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron, John Leguizamo, Travis Scott, Corey Hawkins, Jarreth J. Merz"
-    },
-    {
-        "title": "Bagong Tukso 2026",
-        "category": "Tagalog Movie",
-        "poster": "1786439848559.jpg",
-        "rating": "5.000",
-        "link": "go:mm9",
-        "cast": "Margaret Diaz, Allison Ross, Apphle Celso, Heart Fox, Shanon Tampon"
-    },
-    {
-        "title": "Kirot 2025",
-        "category": "Tagalog Movie",
-        "poster": "1786480685004.jpg",
-        "rating": "5.000",
-        "link": "go:mm8",
-        "cast": "Jenn Rosa, Ashley Lopez, JC Tan, Dio De Jesus, Rinoa Halili, Arjay Bautista, Giovanni Baldisseri, Malou Canzana, Angel Durango, Angelique Maglinao"
-    },
-    {
-        "title": "Awarapan 2 2026",
-        "category": "Bollywood Hindi Movie",
-        "poster": "1786913575110.jpg",
-        "rating": "0.000",
-        "link": "go:mm7",
-        "cast": "Emraan Hashmi, Shabana Azmi, Disha Patani, Suvinder Vicky, Vijayant Kohli, Atul Kumar, Aniruddh Rawal, Shriya Saran, Puran Gabbi, Shaad Randhawa"
-    },
-    {
-        "title": "Hogi Pyaar Ki Jeet 1999",
-        "category": "Bollywood 90s Movie",
-        "poster": "1787517459743.jpg",
-        "rating": "5.600",
-        "link": "go:mm6",
-        "cast": "Ajay Devgn, Neha, Arshad Warsi, Mayuri Kango, Arjun, Ketki Dave, Mohan Joshi, Adi Irani, Shiva Rindani, Raza Murad"
-    },
-    {
-        "title": "My Best Friend, His Girlfriend and Me 2026",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1787689131891.jpg",
-        "rating": "5.980",
-        "link": "go:mm5",
-        "cast": "Kostja Ullmann, Janina Uhse, David Kross, Ferdinand Hofer, Clara Immel, Mira Huber, Larissa Sirah Herden, Anna Herrmann, Timon Ballenberger, Thomas Heinze"
-    },
-    {
-        "title": "Anand Ashram 1977",
-        "category": "Bengali Movie",
-        "poster": "1787738846257.jpg",
-        "rating": "8.000",
-        "link": "go:mm4",
-        "cast": "Ashok Kumar, Uttam Kumar, Sharmila Tagore, Rakesh Roshan, Moushumi Chatterjee, Utpal Dutt, Anita Guha"
-    },
-    {
-        "title": "The Bay 2026",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1788120721884.jpg",
-        "rating": "5.800",
-        "link": "go:mm3",
-        "cast": "Francesca Eastwood, Dani Oliveros, Alexander Wraith, Ta'imua, Calan Scherer, Destiny Benner"
-    },
-    {
-        "title": "The Last Sunrise 2026",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1788121606234.jpg",
-        "rating": "6.981",
-        "link": "go:mm2",
-        "cast": "Maia Reficco, Eva Longoria, Fernando Lindez, Chloé Sweetlove, Andrés Velencoso, Stefanie Martini, Sabrina Bartlett, Àlex Peracaula, Molly B. Thomas, Razan Nassar"
-    },
-    {
-        "title": "Evil Dead Burn 2026",
-        "category": "Hollywood Hindi Dubbed",
-        "poster": "1788122147137.jpg",
-        "rating": "7.784",
-        "link": "go:mm1",
-        "cast": "Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan, Erroll Shand, Maude Davey, George Pullar, Greta van den Brink, Keanu Karim, Victory Ndukwe"
-    }
+{
+    "id": "kajolstorege21",
+    "title": "Sultana 2026",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1790710529178.jpg",
+    "rating": "7.3",
+    "link": "go:dev4",
+    "cast": "Tuba Büyüküstün, Derya Pınar Ak, Seray Kaya, Begüm Akkaya, Rojbin Erden, Şirin Saldamlı, Itır Esen, Taro Emir Tekin,"
+},
+{
+    "id": "kajolstorege19",
+    "title": "Wanted: Girlfriend 2024",
+    "category": "Tagalog Movie",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786380259731.jpg",
+    "rating": "5.2",
+    "link": "go:dev5",
+    "cast": "Shiena Yu, Yuki Sakamoto, Reina Castillo, Allan Villafuerte, Erica Dales, Jericho Ponce, Lau Apostol, Anica Paljapay,"
+},
+{
+    "id": "kajolstorege21",
+    "title": "Evil Dead Burn 2026",
+    "category": "Horror Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1788122147137.jpg",
+    "rating": "7.8",
+    "link": "go:dev6",
+    "cast": "Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan, Erroll Shand, Maude Davey, George Pullar,"
+},
+{
+    "id": "kajolstorege21",
+    "title": "The Last Sunrise 2026",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1788121606234.jpg",
+    "rating": "7.0",
+    "link": "go:dev7",
+    "cast": "Maia Reficco, Eva Longoria, Fernando Lindez, Chloé Sweetlove, Andrés Velencoso, Stefanie Martini, Sabrina Bartlett,"
+},
+{
+    "id": "kajolstorege21",
+    "title": "The Bay 2026",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1788120721884.jpg",
+    "rating": "5.8",
+    "link": "go:dev8",
+    "cast": "Francesca Eastwood, Dani Oliveros, Alexander Wraith, Ta'imua, Calan Scherer, Destiny Benner, Best friends Emma and Lani,"
+}
 ];
