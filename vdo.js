@@ -104,7 +104,7 @@ let allMovies = [
 {
     "id": "kajolstorege14",
     "title": "Because I Love You 2017",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812142965.jpg",
     "rating": "7.0",
     "link": "go:dev59",
@@ -113,7 +113,7 @@ let allMovies = [
 {
     "id": "myplaylab105",
     "title": "The Moon 2023",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812293936.jpg",
     "rating": "6.5",
     "link": "go:dev60",
@@ -122,7 +122,7 @@ let allMovies = [
 {
     "id": "myplaylab105",
     "title": "The Magician 2015",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812480107.jpg",
     "rating": "6.1",
     "link": "go:dev61",
@@ -131,7 +131,7 @@ let allMovies = [
 {
     "id": "myplaylab105",
     "title": "Mood of the Day 2016",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812544488.jpg",
     "rating": "7.2",
     "link": "go:dev62",
@@ -140,7 +140,7 @@ let allMovies = [
 {
     "id": "myplaylab105",
     "title": "Always 2011",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786813093934.jpg",
     "rating": "7.8",
     "link": "go:dev63",
@@ -149,7 +149,7 @@ let allMovies = [
 {
     "id": "myplaylab105",
     "title": "Ditto 2022",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786813501753.jpg",
     "rating": "6.8",
     "link": "go:dev64",
@@ -158,7 +158,7 @@ let allMovies = [
 {
     "id": "kajolstorege10",
     "title": "Architecture 101 2012",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786866957256.jpg",
     "rating": "7.3",
     "link": "go:dev65",
@@ -167,7 +167,7 @@ let allMovies = [
 {
     "id": "kajolstorege10",
     "title": "RV: Resurrected Victims 2017",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786881045053.jpg",
     "rating": "5.6",
     "link": "go:dev66",
@@ -176,7 +176,7 @@ let allMovies = [
 {
     "id": "kajolstorege11",
     "title": "Be With You 2018",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786882132963.jpg",
     "rating": "8.2",
     "link": "go:dev67",
@@ -185,7 +185,7 @@ let allMovies = [
 {
     "id": "kajolstorege11",
     "title": "Sex Is Zero 2002",
-    "category": "Bollywood Hindi Movie",
+    "category": "Tagalog Movie",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786883344029.jpg",
     "rating": "6.2",
     "link": "go:dev68",
@@ -194,7 +194,7 @@ let allMovies = [
 {
     "id": "kajolstorege11",
     "title": "A Time to Remember 2021",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786884487545.jpg",
     "rating": "7.1",
     "link": "go:dev69",
@@ -203,7 +203,7 @@ let allMovies = [
 {
     "id": "webmplex",
     "title": "Revenge Girl 2017",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786885968915.jpg",
     "rating": "5.4",
     "link": "go:dev70",
@@ -212,7 +212,7 @@ let allMovies = [
 {
     "id": "webmplex",
     "title": "Life Is Beautiful 2022",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886176509.jpg",
     "rating": "6.9",
     "link": "go:dev71",
@@ -221,7 +221,7 @@ let allMovies = [
 {
     "id": "kajolstorege13",
     "title": "Love My Scent 2023",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886473002.jpg",
     "rating": "4.9",
     "link": "go:dev72",
@@ -230,7 +230,7 @@ let allMovies = [
 {
     "id": "kajolstorege13",
     "title": "Midnight 2021",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886542005.jpg",
     "rating": "7.2",
     "link": "go:dev73",
@@ -239,7 +239,7 @@ let allMovies = [
 {
     "id": "kajolstorege14",
     "title": "Steal My Heart 2013",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786889399328.jpg",
     "rating": "6.7",
     "link": "go:dev74",
@@ -248,7 +248,7 @@ let allMovies = [
 {
     "id": "kajolstorege14",
     "title": "Student A 2018",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786889655695.jpg",
     "rating": "6.2",
     "link": "go:dev75",
@@ -257,7 +257,7 @@ let allMovies = [
 {
     "id": "webmplex",
     "title": "Love Conquest 2020",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786890333055.jpg",
     "rating": "4.5",
     "link": "go:dev76",
@@ -266,7 +266,7 @@ let allMovies = [
 {
     "id": "kajolstorege8",
     "title": "578: Magnum 2022",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786901309998.jpg",
     "rating": "6.0",
     "link": "go:dev77",
@@ -275,7 +275,7 @@ let allMovies = [
 {
     "id": "myskdstore31",
     "title": "Train to Busan 2016",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787329924750.jpg",
     "rating": "7.8",
     "link": "go:dev78",
@@ -284,7 +284,7 @@ let allMovies = [
 {
     "id": "unknownstorage",
     "title": "The Negotiation 2018",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333004941.jpg",
     "rating": "7.1",
     "link": "go:dev79",
@@ -293,7 +293,7 @@ let allMovies = [
 {
     "id": "redchilliesaps",
     "title": "The Mermaid 2016",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787480319229.jpg",
     "rating": "6.6",
     "link": "go:dev80",
@@ -302,7 +302,7 @@ let allMovies = [
 {
     "id": "mysiteads99",
     "title": "009-1: The End of the Beginning 2013",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787497400589.jpg",
     "rating": "5.9",
     "link": "go:dev81",
@@ -311,7 +311,7 @@ let allMovies = [
 {
     "id": "myskdstore25",
     "title": "Kakegurui 2: Desperate Russian Roulette 2021",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787587399630.jpg",
     "rating": "6.7",
     "link": "go:dev82",
@@ -320,7 +320,7 @@ let allMovies = [
 {
     "id": "unknownstorage",
     "title": "Embrace Again 2021",
-    "category": "Bollywood Hindi Movie",
+    "category": "Korean Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787589390439.jpg",
     "rating": "7.4",
     "link": "go:dev83",
