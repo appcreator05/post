@@ -1,0 +1,12 @@
+.movie-card { font-family: sans-serif; background: #161b22; padding: 8px; border-radius: 12px; color: white; width: 100%; max-width: 600px; margin: 10px auto; box-sizing: border-box; }
+.movie-card img.poster-img { width: 100%; height: auto; border-radius: 8px; display: block; }
+.watch-btn { background: #e50914; color: white; border: none; padding: 10px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 100%; margin-top: 10px; }
+#player-wrapper { display: none; margin-top: 15px; width: 100%; max-width: 700px; margin-left: auto; margin-right: auto; }
+.plyr { width: 100% !important; border-radius: 8px; aspect-ratio: 700 / 400; background-color: #000; }
+.cast-container { display: flex; gap: 12px; margin-top: 8px; overflow-x: auto; padding-bottom: 5px; scrollbar-width: thin; }
+.cast-container::-webkit-scrollbar { height: 4px; }
+.cast-container::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+.cast-box { display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 75px; flex-shrink: 0; cursor: pointer; }
+.cast-embed { width: 65px; height: 65px; border-radius: 50%; background-size: cover; background-position: center; border: 2px solid #58a6ff; display: block; background-color: #21262d; }
+.responsive2 { font-size: 11px; color: #c9d1d9; margin-top: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 75px; display: block; text-align: center; }
+.post-container { background: var(--card-bg); padding: 5px; border-radius: 8px; margin-top: 20px; }
