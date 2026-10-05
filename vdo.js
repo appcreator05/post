@@ -3,6 +3,330 @@ const IMAGE_BASE_URL = "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/";
 
 let allMovies = [
     {
+    "id": "kajolstorege20",
+    "title": "My Best Friend's Wedding 2016",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786340817567.jpg",
+    "rating": "5.1",
+    "link": "go:dev48",
+    "cast": "Shu Qi, William Feng, Victoria Song, Rhydian Vaughan, Gala Gordon, Ye Qing, Lobo Chan, Alice Lee, Christian Louboutin,"
+},
+{
+    "id": "kajolstorege20",
+    "title": "Even If This Love Disappears Tonight 2025",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786406735379.jpg",
+    "rating": "8.5",
+    "link": "go:dev49",
+    "cast": "Choo Young-woo, Shin Sia, Cho Yu-jung, Jin Ho-eun, Cho Han-chul, Lee Chae-kyung, Jang Yoo-sang, Yun Ki-chang,"
+},
+{
+    "id": "kajolstorege20",
+    "title": "Midnight Sun 2018",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786406792602.jpg",
+    "rating": "7.8",
+    "link": "go:dev50",
+    "cast": "Bella Thorne, Patrick Schwarzenegger, Rob Riggle, Quinn Shephard, Ken Tremblett, Suleka Mathew, Jenn Griffin,"
+},
+{
+    "id": "kajolstorege20",
+    "title": "Forbidden Fairytale 2025",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786380050944.jpg",
+    "rating": "7.4",
+    "link": "go:dev51",
+    "cast": "Park Ji-hyun, Choi Si-won, Sung Dong-il, Park Geon-il, Hwang Se-on, Seol Woo-in, Park Cheol-min, Kim Young-ah,"
+},
+{
+    "id": "redchilliesaps",
+    "title": "The Kill List 2014",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786381043820.jpg",
+    "rating": "5.6",
+    "link": "go:dev52",
+    "cast": ", No description available.,"
+},
+{
+    "id": "kajolstorege19",
+    "title": "Follow My Voice 2025",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786381114465.jpg",
+    "rating": "7.4",
+    "link": "go:dev53",
+    "cast": "Berta Castañé, Jae Woo Yang, Claudia Traisac, Fernando Guallar, Itziar Ituño, Nuno Gallego, Yasmina Drissi,"
+},
+{
+    "id": "kajolstorege2",
+    "title": "Crazy Romance 2019",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://raw.githubusercontent.com/appcreator05/768/main/5/1786735932125.jpg",
+    "rating": "6.8",
+    "link": "go:dev54",
+    "cast": "Kim Rae-won, Gong Hyo-jin, Kang Ki-young, Jung Woong-in, Jang So-yeon, Lee Chae-eun, Chung Hye-lyn, Son Woo-hyeon,"
+},
+{
+    "id": "kajolstorege16",
+    "title": "The Negotiation 2018",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786738841344.jpg",
+    "rating": "7.1",
+    "link": "go:dev55",
+    "cast": "Son Ye-jin, Hyun Bin, Kim Sang-ho, Jang Young-nam, Jang Kwang, Jo Young-jin, Kim Jong-goo, Kim Min-sang, Han Gi-joong,"
+},
+{
+    "id": "myapkcreator24",
+    "title": "Very Ordinary Couple 2013",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786774767113.jpg",
+    "rating": "6.0",
+    "link": "go:dev56",
+    "cast": "Lee Min-ki, Kim Min-hee, Kim Kang-hyun, Ra Mi-ran, Choi Mu-sung, Park Byung-eun, Ha Yeon-soo, Shin Yeon-sook,"
+},
+{
+    "id": "kajolstorege15",
+    "title": "My Brilliant Life 2014",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786776064460.jpg",
+    "rating": "7.4",
+    "link": "go:dev57",
+    "cast": "Song Hye-kyo, Gang Dong-won, Jo Sung-mok, Baek Il-seob, Heo Joon-seok, Kim So-jin, Cha Eun-woo, Chae Seo-jin,"
+},
+{
+    "id": "kajolstorege14",
+    "title": "Love 911 2012",
+    "category": "Korean Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786776573177.jpg",
+    "rating": "7.3",
+    "link": "go:dev58",
+    "cast": "Han Hyo-joo, Go Soo, Don Lee, Kim Seung-oh, Hyun Jyu-ni, Jin Seo-yeon, Yoon Se-woong, Oh Yu-na, Lee Doa, Jo Kyoung-hoon,"
+},
+{
+    "id": "kajolstorege14",
+    "title": "Because I Love You 2017",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812142965.jpg",
+    "rating": "7.0",
+    "link": "go:dev59",
+    "cast": "Cha Tae-hyun, Kim You-jung, Seo Hyun-jin, Lim Ju-hwan, Sunwoo Yong-nyeo, Park Keun-hyong, Sung Dong-il, Oh Na-ra,"
+},
+{
+    "id": "myplaylab105",
+    "title": "The Moon 2023",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812293936.jpg",
+    "rating": "6.5",
+    "link": "go:dev60",
+    "cast": "Sul Kyung-gu, Doh Kyung-soo, Kim Hee-ae, Park Byung-eun, Cho Han-chul, Choi Byung-mo, Hong Seung-hee, Lee Sung-min,"
+},
+{
+    "id": "myplaylab105",
+    "title": "The Magician 2015",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812480107.jpg",
+    "rating": "6.1",
+    "link": "go:dev61",
+    "cast": "Yoo Seung-ho, Go Ara, Lee Kyung-young, Jo Yoon-hee, Kwak Do-won, Park Cheol-min, Jo Dal-hwan, Jang Yoo-sang,"
+},
+{
+    "id": "myplaylab105",
+    "title": "Mood of the Day 2016",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786812544488.jpg",
+    "rating": "7.2",
+    "link": "go:dev62",
+    "cast": "Moon Chae-won, Yoo Yeon-seok, Jo Jae-yun, Kim Seul-gi, Park Min-woo, Lee Yeon-doo, Kim Dae-ryung, Lee Ju-woo,"
+},
+{
+    "id": "myplaylab105",
+    "title": "Always 2011",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786813093934.jpg",
+    "rating": "7.8",
+    "link": "go:dev63",
+    "cast": "So Ji-sub, Han Hyo-joo, Kang Shin-il, Park Cheol-min, Oh Kwang-rok, Kim Mi-kyeong, Jin Goo, Jung Jae-jin,"
+},
+{
+    "id": "myplaylab105",
+    "title": "Ditto 2022",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786813501753.jpg",
+    "rating": "6.8",
+    "link": "go:dev64",
+    "cast": "Yeo Jin-goo, Cho Yi-hyun, Kim Hye-yoon, Na In-woo, Bae In-hyuk, Roh Jae-won, Nam Min-woo, Lim Yu-bin, Yoo Jae-myung,"
+},
+{
+    "id": "kajolstorege10",
+    "title": "Architecture 101 2012",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786866957256.jpg",
+    "rating": "7.3",
+    "link": "go:dev65",
+    "cast": "Uhm Tae-woong, Han Ga-in, Lee Je-hoon, Suzy, Cho Jung-seok, Yoo Yeon-seok, Kim Eui-sung, Cho Hyun-chul, Go Joon-hee,"
+},
+{
+    "id": "kajolstorege10",
+    "title": "RV: Resurrected Victims 2017",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786881045053.jpg",
+    "rating": "5.6",
+    "link": "go:dev66",
+    "cast": "Kim Rae-won, Kim Hae-sook, Sung Dong-il, Jeon Hye-jin, Jang Young-nam, Lee Ji-won, Oh Dae-hwan, Lee Jun-hyeok,"
+},
+{
+    "id": "kajolstorege11",
+    "title": "Be With You 2018",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786882132963.jpg",
+    "rating": "8.2",
+    "link": "go:dev67",
+    "cast": "So Ji-sub, Son Ye-jin, Kim Ji-hwan, Ko Chang-seok, Lee Jun-hyeok, Son Yeo-eun, Lee You-jin, Kim Hyeon-soo, Bae Yu-ram,"
+},
+{
+    "id": "kajolstorege11",
+    "title": "Sex Is Zero 2002",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786883344029.jpg",
+    "rating": "6.2",
+    "link": "go:dev68",
+    "cast": "Im Chang-jung, Ha Ji-won, Choi Sung-kook, Yoo Chae-young, Jung Min, Jin Jae-young, Choi Won-young, Lee Si-yeon,"
+},
+{
+    "id": "kajolstorege11",
+    "title": "A Time to Remember 2021",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786884487545.jpg",
+    "rating": "7.1",
+    "link": "go:dev69",
+    "cast": "Lee Sung-yeol, Bae Yoo-bin, Nam Kyu-hee, Park Sung-woo, Yu Yeon-Su, Park Eun-woo,"
+},
+{
+    "id": "webmplex",
+    "title": "Revenge Girl 2017",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786885968915.jpg",
+    "rating": "5.4",
+    "link": "go:dev70",
+    "cast": "Mirei Kiritani, Nobuyuki Suzuki, Sho Kiyohara, Fumika Baba, Aimi Satsukawa, Shin'ya Ohwada, Aisa Takeuchi, Shiho Sasaki,"
+},
+{
+    "id": "webmplex",
+    "title": "Life Is Beautiful 2022",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886176509.jpg",
+    "rating": "6.9",
+    "link": "go:dev71",
+    "cast": "Ryu Seung-ryong, Yum Jung-ah, Park Se-wan, Ong Seong-wu, Shim Dal-gi, Ha Hyun-sang, Kim Da-in, Park Young-kyu,"
+},
+{
+    "id": "kajolstorege13",
+    "title": "Love My Scent 2023",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886473002.jpg",
+    "rating": "4.9",
+    "link": "go:dev72",
+    "cast": "Yoon Shi-yoon, Seol In-a, Steve Sanghyun Noh, Moon Ji-in, Lee Kyu-bok, Kim Young-woong, Heo Eun-jung, Im Do-hwa,"
+},
+{
+    "id": "kajolstorege13",
+    "title": "Midnight 2021",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786886542005.jpg",
+    "rating": "7.2",
+    "link": "go:dev73",
+    "cast": "Jin Ki-joo, Wi Ha-jun, Park Hoon, Kil Hae-yeon, Kim Hye-yoon, Park Ji-hoon, Jung Won-chang, Lee Sang-hee, Eun-Woo Bae,"
+},
+{
+    "id": "kajolstorege14",
+    "title": "Steal My Heart 2013",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786889399328.jpg",
+    "rating": "6.7",
+    "link": "go:dev74",
+    "cast": "Kim A-joong, Joo Won, Ju Jin-mo, Baek Do-bin, Bae Sung-woo, Cha Tae-hyun, Ju Seok-tae, Park Cheol-min, Kim Hie-won,"
+},
+{
+    "id": "kajolstorege14",
+    "title": "Student A 2018",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786889655695.jpg",
+    "rating": "6.2",
+    "link": "go:dev75",
+    "cast": "Kim Hwan-hee, Suho, Lee Jong-hyuk, Jung Da-bin, Yoo Jae-sang, Jeong Da-eun, Kim Hyun-bin, Uh Sung-wook, Jong Ho,"
+},
+{
+    "id": "webmplex",
+    "title": "Love Conquest 2020",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786890333055.jpg",
+    "rating": "4.5",
+    "link": "go:dev76",
+    "cast": "Kang Ye-bin, Oh Hee-joong, Shin Sae-rom, Kim Do-hyun, Ha Ra, Yeong-seok had a crush on his club mate,"
+},
+{
+    "id": "kajolstorege8",
+    "title": "578: Magnum 2022",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1786901309998.jpg",
+    "rating": "6.0",
+    "link": "go:dev77",
+    "cast": "Alexandre Nguyen, Thanh Thảo, H'Hen Niê, Hoàng Phúc, Ngọc Tình, Tuấn Hạc, Jessica Minh Anh, Thảo Tâm, Minh Quang Nguyễn,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Train to Busan 2016",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787329924750.jpg",
+    "rating": "7.8",
+    "link": "go:dev78",
+    "cast": "Gong Yoo, Kim Su-an, Jung Yu-mi, Don Lee, Choi Woo-shik, An So-hee, Kim Eui-sung, Ye Su-jeong, Park Myung-shin,"
+},
+{
+    "id": "unknownstorage",
+    "title": "The Negotiation 2018",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333004941.jpg",
+    "rating": "7.1",
+    "link": "go:dev79",
+    "cast": "Son Ye-jin, Hyun Bin, Kim Sang-ho, Jang Young-nam, Jang Kwang, Jo Young-jin, Kim Jong-goo, Kim Min-sang, Han Gi-joong,"
+},
+{
+    "id": "redchilliesaps",
+    "title": "The Mermaid 2016",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787480319229.jpg",
+    "rating": "6.6",
+    "link": "go:dev80",
+    "cast": "Lin Yun, Deng Chao, Zhang Yuqi, Show Lo, Tsui Hark, Wen Zhang, Kris Wu, Lee Sheung-Ching, Lu Zhengyu, Chiu Chi-Ling,"
+},
+{
+    "id": "mysiteads99",
+    "title": "009-1: The End of the Beginning 2013",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787497400589.jpg",
+    "rating": "5.9",
+    "link": "go:dev81",
+    "cast": "Mayuko Iwasa, Minehiro Kinomoto, Nao Nagasawa, Mao Ichimichi, Aya Sugimoto, Naoto Takenaka, Mami Abe, Ryohei Abe,"
+},
+{
+    "id": "myskdstore25",
+    "title": "Kakegurui 2: Desperate Russian Roulette 2021",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787587399630.jpg",
+    "rating": "6.7",
+    "link": "go:dev82",
+    "cast": "Minami Hamabe, Mahiro Takasugi, Ryusei Fujii, Aoi Morikawa, Elaiza Ikeda, Yuma Yamoto, Yurika Nakamura, Natsume Mito,"
+},
+{
+    "id": "unknownstorage",
+    "title": "Embrace Again 2021",
+    "category": "Bollywood Hindi Movie",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787589390439.jpg",
+    "rating": "7.4",
+    "link": "go:dev83",
+    "cast": "Huang Bo, Zhou Dongyu, Jia Ling, Wu Yanshu, Zhu Yilong, Xu Fan, Liu Haoran, Benz Hui Siu-Hung, Wang Xiao, Zhang Youhao,"
+},
+    {
     "id": "kajolstorege21",
     "title": "Atsay Killer 2026",
     "category": "Tagalog Movie",
@@ -374,7 +698,7 @@ let allMovies = [
 {
     "id": "kajolstorege21",
     "title": "Sultana 2026",
-    "category": "Bollywood Hindi Movie",
+    "category": "Hollywood Hindi Dubbed",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1790710529178.jpg",
     "rating": "7.3",
     "link": "go:dev4",
