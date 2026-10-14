@@ -1,5 +1,81 @@
 [
 {
+    "id": "kajolstorege2",
+    "title": "My Lovely Liar S01 2023",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/mylove.jpg",
+    "rating": "5.8",
+    "cast": "Cho Jin-se, Eom Ji-yoon, Ha Jong-woo, Jin Kyung, Kim So-hyun, Kim Won-hun, Kwon Dong-ho,",
+    "description": "Cho Jin-se, Eom Ji-yoon, Ha Jong-woo, Jin Kyung, Kim So-hyun, Kim Won-hun, Kwon Dong-ho,",
+    "video": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.1.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.1.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.2.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.3.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.4.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.5.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.6.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.7.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.8.mp4"
+      },
+    {
+        "title": "Episode 9",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.9.mp4"
+      },
+    {
+        "title": "Episode 10",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.10.mp4"
+      },
+    {
+        "title": "Episode 11",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.11.mp4"
+      },
+    {
+        "title": "Episode 12",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.12.mp4"
+      },
+    {
+        "title": "Episode 13",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.13.mp4"
+      },
+    {
+        "title": "Episode 14",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.14.mp4"
+      },
+    {
+        "title": "Episode 15",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.15.mp4"
+      },
+    {
+        "title": "Episode 16",
+        "link": "https://github.com/webmplex-ui/MyLovelyliarS01/releases/download/s1/Episode.16.mp4"
+      }
+    ]
+  },
+{
     "id": "kajolstorege13",
     "title": "Snake Eyes: G.I. Joe Origins 2021",
     "category": "Hollywood Hindi Dubbed",
