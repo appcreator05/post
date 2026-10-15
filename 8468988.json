@@ -1,5 +1,716 @@
 [
 {
+    "id": "ZihadZihad530",
+    "title": "Ben-Hur 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330029064.jpg",
+    "rating": "5.8",
+    "video": "1mFBHhPJbwbl0iNxHczzc6C5hK4ivmCGie",
+    "cast": "Jack Huston, Toby Kebbell, Rodrigo Santoro, Morgan Freeman, Nazanin Boniadi, Ayelet Zurer, Pilou Asbæk,"
+},
+{
+    "id": "traskvance73",
+    "title": "The Huntsman: Winter's War 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330081908.jpg",
+    "rating": "6.3",
+    "video": "1jgO-L9F6KqWhjRsFkMj0APoo0UuH5HHgp",
+    "cast": "Chris Hemsworth, Charlize Theron, Emily Blunt, Jessica Chastain, Nick Frost, Sam Claflin, Rob Brydon, Sheridan Smith,"
+},
+{
+    "id": "donnadot301",
+    "title": "Fantastic Beasts and Where to Find Them 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330159168.jpg",
+    "rating": "7.3",
+    "video": "1CpXjHja7UXF9YPZX28spEf9l8jOki7o2z",
+    "cast": "Eddie Redmayne, Katherine Waterston, Dan Fogler, Alison Sudol, Colin Farrell, Jon Voight, Ron Perlman, Johnny Depp,"
+},
+{
+    "id": "janudot333",
+    "title": "The Bourne Identity 2002",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330215174.jpg",
+    "rating": "7.5",
+    "video": "1NLgGFJ9vbayDfqXOcSVNLtnlf8NGInLjh",
+    "cast": "Matt Damon, Franka Potente, Chris Cooper, Clive Owen, Brian Cox, Adewale Akinnuoye-Agbaje, Gabriel Mann, Julia Stiles,"
+},
+{
+    "id": "paglysng343",
+    "title": "Captain America: Civil War 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330352795.jpg",
+    "rating": "7.5",
+    "video": "1HvBnuz9EIcgHMejkYM9T-X3MZaIvwYMwp",
+    "cast": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner,"
+},
+{
+    "id": "paglysng343",
+    "title": "Doctor Strange 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330403890.jpg",
+    "rating": "7.4",
+    "video": "1LUXWSHeEPqzIPPJAMVwGvghSHglvhXt25",
+    "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Mads Mikkelsen, Tilda Swinton, Michael Stuhlbarg,"
+},
+{
+    "id": "traskvance73",
+    "title": "The 5th Wave 2016",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330456607.jpg",
+    "rating": "5.9",
+    "video": "1dIiP8Uo_76BjcNsw_DvdOAEWZnDAljaC7",
+    "cast": "Chloë Grace Moretz, Nick Robinson, Ron Livingston, Maggie Siff, Alex Roe, Maria Bello, Maika Monroe, Zackary Arthur,"
+},
+{
+    "id": "janudot333",
+    "title": "Logan 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330511036.jpg",
+    "rating": "7.8",
+    "video": "1Et0bmA2Dhw3fEOHETURSQf-6ft7lzFKIj",
+    "cast": "Hugh Jackman, Dafne Keen, Patrick Stewart, Elizabeth Rodriguez, Boyd Holbrook, Stephen Merchant, Richard E. Grant,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "A Wrinkle in Time 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330560268.jpg",
+    "rating": "5.0",
+    "video": "1-Vl3gmVKSbBz5w2sG4wd_T25N_WBCW00a",
+    "cast": "Storm Reid, Oprah Winfrey, Reese Witherspoon, Mindy Kaling, Levi Miller, Deric McCabe, Chris Pine, Gugu Mbatha-Raw,"
+},
+{
+    "id": "joyaldot301",
+    "title": "Justice League 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330741044.jpg",
+    "rating": "6.1",
+    "video": "1KJhQHuyU-9vDYwK2i9w1-hH0e_hiTZb2f",
+    "cast": "Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot, Ezra Miller, Jason Momoa, Ray Fisher, Jeremy Irons, Diane Lane,"
+},
+{
+    "id": "jugasin001",
+    "title": "47 Meters Down 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330794897.jpg",
+    "rating": "5.8",
+    "video": "1U7eItQVnz4KNkBi4_GhVcVAw7wiCO-VR2",
+    "cast": "Mandy Moore, Claire Holt, Matthew Modine, Chris Johnson, Yani Gellman, Santiago Segura, Mayra Juárez, Axel Mansilla,"
+},
+{
+    "id": "likodot301",
+    "title": "Extraordinary Mission 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330850939.jpg",
+    "rating": "6.5",
+    "video": "1ZM2NrtVikS9EsrDOEtxy-BER9g9e1WIrv",
+    "cast": "Huang Xuan, Duan Yihong, Zu Feng, Lang Yueting, David Wang, Xing Jiadong, Wang Yanhui, Zhao Bingrui, Xiao Cong,"
+},
+{
+    "id": "likodot301",
+    "title": "Darkest Hour 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330928584.jpg",
+    "rating": "7.4",
+    "video": "16G7yKUOcB3wSptNLzXsxJpDbyHM1-4FCu",
+    "cast": "Gary Oldman, Stephen Dillane, Lily James, Ronald Pickup, Ben Mendelsohn, Kristin Scott Thomas, Nicholas Jones,"
+},
+{
+    "id": "Tinkudot301",
+    "title": "Mirror Game 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787330978725.jpg",
+    "rating": "5.3",
+    "video": "12yEWw0T6HJ0rBtKitwhg0wh79GXNQXSgp",
+    "cast": "Parvin Dabas, Dhruv Bali, Pooja Batra, Omi Vaidya, Sneha Ramachander,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Journey to the West: The Demons Strike Back 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331087933.jpg",
+    "rating": "6.0",
+    "video": "1rI3-Lg6RfSdOn5oPgidPG58YxU0Kejc3x",
+    "cast": "Kris Wu, Lin Gengxin, Yao Chen, Lin Yun, Mengke Bateer, Wang Likun, Yang Yiwei, Wang Chao, Wang Duo, Dong Chengpeng,"
+},
+{
+    "id": "gafoordot301",
+    "title": "Monky 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331242580.jpg",
+    "rating": "5.5",
+    "video": "1fsvx4pGoRSAPSDE_Xva4IWiFJ_PW-UCVd",
+    "cast": "Julius Jimenez Hugoson, Johan Petersson, Frida Hallgren, Matilda Forss Lindström, Ing-Marie Carlsson, Sofia Bach,"
+},
+{
+    "id": "Murrydot301",
+    "title": "I Do... Until I Don't 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331301195.jpg",
+    "rating": "4.7",
+    "video": "11uf_aQZVvz6NDhKTTa2Q1g-ocqtCnt4_k",
+    "cast": "Lake Bell, Ed Helms, Mary Steenburgen, Paul Reiser, Amber Heard, Wyatt Cenac, Dolly Wells, Chace Crawford, Rae Gray,"
+},
+{
+    "id": "airodot369",
+    "title": "The Adventurers 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331353774.jpg",
+    "rating": "6.0",
+    "video": "1SzdFkZsy-ZqbIYkblThSkCbrshJqAJk42",
+    "cast": "Andy Lau, Shu Qi, Zhang Jingchu, Tony Yang, Jean Reno, Eric Tsang Chi-Wai, Sha Yi, You Tianyi, Karel Dobrý,"
+},
+{
+    "id": "jambodot369",
+    "title": "The Landlord 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331414968.jpg",
+    "rating": "5.8",
+    "video": "1s8RFdakMWRLpYmQ_25Wj0X-NyDTvXa4Ht",
+    "cast": "Molly McCook, Ted McGinley, Jack Turner, Amy Arburn, Ash Santos, Anne Sward, Channon Voyce, Yolanda Stange, Paul Elia,"
+},
+{
+    "id": "naseerbhuto7765",
+    "title": "War for the Planet of the Apes 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331801333.jpg",
+    "rating": "7.2",
+    "video": "1U9_PINYyFEg6g8fuoeKiorJBSlfaB1O6x",
+    "cast": "Andy Serkis, Woody Harrelson, Karin Konoval, Terry Notary, Steve Zahn, Amiah Miller, Ty Olsson, Michael Adamthwaite,"
+},
+{
+    "id": "traskvance73",
+    "title": "Guardians 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331876201.jpg",
+    "rating": "5.0",
+    "video": "1srN7epJtUPq3oZFA5NL0tMQGEQgKjqjV0",
+    "cast": "Anton Pampushnyy, Sanzhar Madi, Sebastien Sisak, Alina Lanina, Valeriya Shkirando, Vyacheslav Razbegaev,"
+},
+{
+    "id": "traskvance73",
+    "title": "The Greatest Showman 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331928355.jpg",
+    "rating": "7.9",
+    "video": "1dwaZq6m8XyepBsG8BBh4a2UTsXEH_ymDw",
+    "cast": "Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, Zendaya, Keala Settle, Yahya Abdul-Mateen II,"
+},
+{
+    "id": "jley26760",
+    "title": "Bleeding Steel 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787331982947.jpg",
+    "rating": "6.0",
+    "video": "1EVUNlu_5jGOhKFm7TAKQHp1PxA_bCthY9",
+    "cast": "Jackie Chan, Show Lo, Ouyang Nana, Erica Xia-Hou, Callan Mulvey, Tess Haubrich, Damien Garvey, Bowie Lam Bo-Yee,"
+},
+{
+    "id": "petersdot301",
+    "title": "Immortal Demon Slayer 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332077782.jpg",
+    "rating": "7.6",
+    "video": "1WEGbg9Gm1ipG35sK4TK0zJ1_XriMI9XUj",
+    "cast": "Eddie Peng Yu-Yan, Ni Ni, Shawn Yue Man-Lok, Ou Hao, Zheng Shuang, Qiao Shan, Yu Feihong, Yang Di, Bayaneruul,"
+},
+{
+    "id": "kajolstorege4",
+    "title": "Union Leader 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332122290.jpg",
+    "rating": "7.1",
+    "video": "16bx4I5WACVstEB8urSadwAE95a-QcxAll",
+    "cast": "Rahul Bhat, Tillotama Shome, Tirth Sharma, Resigned to his fate as a worker in a notoriously shoddy chemical plant,"
+},
+{
+    "id": "kajolstorege4",
+    "title": "Toxic Shark 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332174673.jpg",
+    "rating": "5.6",
+    "video": "1hNExCkEI2DgWyKZhO6pQ-PKPazkHM5T4z",
+    "cast": "Kabby Borders, Christina Masterson, Michelle Cortés, Bryce Durfee, Sean Samuels, Quinn Bozza, Cristina Jayo,"
+},
+{
+    "id": "kajolstorege4",
+    "title": "Stratton 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332225923.jpg",
+    "rating": "5.0",
+    "video": "1lolikht467T3pxTOL_roY_5pcsmbZ5gB1",
+    "cast": "Dominic Cooper, Gemma Chan, Connie Nielsen, Austin Stowell, Tyler Hoechlin, Tom Felton, Thomas Kretschmann,"
+},
+{
+    "id": "kalulukho1234",
+    "title": "American Assassin 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332277355.jpg",
+    "rating": "6.4",
+    "video": "1en4zvb31j0H0grE1b7tB20fnpYEAkcNPx",
+    "cast": "Dylan O'Brien, Michael Keaton, Taylor Kitsch, Shiva Negar, Sanaa Lathan, Scott Adkins, David Suchet, Navid Negahban,"
+},
+{
+    "id": "kajolstorege4",
+    "title": "The Shape of Water 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332330734.jpg",
+    "rating": "7.2",
+    "video": "1N5WDVJLQvVzWF6NyAmO57jfdwA-bXV-w6",
+    "cast": "Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer, Michael Stuhlbarg, Doug Jones, David Hewlett,"
+},
+{
+    "id": "kalulukho1234",
+    "title": "The Snowman 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332380909.jpg",
+    "rating": "5.2",
+    "video": "1y0j7G__FcGXkdmLbB52mjUjz0EtGtCZr3",
+    "cast": "Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Jonas Karlsson, Michael Yates, Ronan Vibert, J.K. Simmons,"
+},
+{
+    "id": "kalulukho1234",
+    "title": "Oceans Rising 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332437580.jpg",
+    "rating": "4.7",
+    "video": "1yCk5aG7cRqddx_dqAv95gxndlN8qxMBYk",
+    "cast": "Jason Tobias, Summer Spiro, Annabel Barrett, Gustavo Escobar, DeJean Brown, Ronak Gandhi, Jeff Harms, Cedric Jonathan,"
+},
+{
+    "id": "samirazafar2018",
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332488135.jpg",
+    "rating": "6.7",
+    "video": "1dSteFPN2QMfBdvDQesl4KM0lvsLMH97Pc",
+    "cast": "Johnny Depp, Javier Bardem, Geoffrey Rush, Brenton Thwaites, Kaya Scodelario, Golshifteh Farahani, Kevin McNally,"
+},
+{
+    "id": "kalulukho1234",
+    "title": "Life 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332537272.jpg",
+    "rating": "6.5",
+    "video": "1vgF1mK3HU1lqL74LAan9zMqI_hOa9fZCo",
+    "cast": "Jake Gyllenhaal, Ryan Reynolds, Rebecca Ferguson, Hiroyuki Sanada, Olga Dihovichnaya, Ariyon Bakare, Naoko Mori,"
+},
+{
+    "id": "337170",
+    "title": "American Made 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332618761.jpg",
+    "rating": "6.9",
+    "video": "1ZG0QQetfADRafQ5G1K57EWEFbHRSK_Yzs",
+    "cast": "Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons, Caleb Landry Jones, Lola Kirke, Jayma Mays, Alejandro Edda,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Astro 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332679718.jpg",
+    "rating": "3.7",
+    "video": "1kp37L56v-Hl1d2Lwyuc6jmMQyT72PoHL4",
+    "cast": "Gary Daniels, Marshal Hilton, Maxine Wasa, Dominique Swain, Louis Mandylor, Michael Paré, Randy Wayne, Courtney Akbar,"
+},
+{
+    "id": "myskdstore31",
+    "title": "The City of Gold 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332747653.jpg",
+    "rating": "5.3",
+    "video": "1Bc6eJDbnD2RerT0bXEHwfjPMbTIu9xQp8",
+    "cast": "Christopher Atkins, Vernon Wells, Branscombe Richmond, John Charles Meyer, Adrienne Whitney Papp, Riley Dandy,"
+},
+{
+    "id": "sschroeder696",
+    "title": "The Meg 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332797462.jpg",
+    "rating": "6.3",
+    "video": "1bVmgt7lc1yjsNs2GxzBwRGjOxp0w5S8Sf",
+    "cast": "Jason Statham, Li Bingbing, Rainn Wilson, Cliff Curtis, Ruby Rose, Jessica McNamee, Masi Oka, Winston Chao,"
+},
+{
+    "id": "jugasin001",
+    "title": "A Night to Regret 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332856093.jpg",
+    "rating": "5.9",
+    "video": "1HFylnSzIV8rpoeq7xXfuhWhxZt7BnMz6l",
+    "cast": "Marguerite Moreau, Mollee Gray, Kevin McNamara, Kirsten Pfeiffer, Gigi Zumbado, Rory Gibson, Jeremy John Wells,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Master Z: Ip Man Legacy 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332907666.jpg",
+    "rating": "6.5",
+    "video": "1OFsBBqLcnCkJ-GcGX_1KWopReRYXWfTWf",
+    "cast": "Max Zhang, Dave Bautista, Michelle Yeoh, Xing Yu, Liu Yan, Kevin Cheng Ka-Wing, Tony Jaa, Chrissie Chau Sau-Na,"
+},
+{
+    "id": "kalulukho1234",
+    "title": "The Favourite 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787332960032.jpg",
+    "rating": "7.5",
+    "video": "1jt1l_FijtTDKL7_GcZeG0nR3vKPVF9sbm",
+    "cast": "Emma Stone, Olivia Colman, Rachel Weisz, Nicholas Hoult, Joe Alwyn, Mark Gatiss, James Smith, Jenny Rainsford,"
+},
+{
+    "id": "sinrandot301",
+    "title": "A Boy Called Sailboat 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333057536.jpg",
+    "rating": "6.6",
+    "video": "16kAWDAajVpLgvGH3uEpxSN2FdI2D5CtKx",
+    "cast": "Julian Atocani Sanchez, J.K. Simmons, Jake Busey, Lew Temple, Noel Gugliemi, Bernard Curry, Elizabeth De Razzo,"
+},
+{
+    "id": "ZihadZihad530",
+    "title": "Widows 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333108140.jpg",
+    "rating": "6.5",
+    "video": "1t3_Szc1Xx-6UJ_k214neDX8fTOI0E_BF3",
+    "cast": "Viola Davis, Michelle Rodriguez, Elizabeth Debicki, Cynthia Erivo, Colin Farrell, Robert Duvall, Liam Neeson,"
+},
+{
+    "id": "petersdot301",
+    "title": "The Hurricane Heist 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333159776.jpg",
+    "rating": "5.7",
+    "video": "14CIGBaAqYDD9wq4QupdfKQZU270UGoSNz",
+    "cast": "Toby Kebbell, Maggie Grace, Ryan Kwanten, Ralph Ineson, Melissa Bolona, Ben Cross, Christian Contreras, Jimmy Walker,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Operation Red Sea 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333214991.jpg",
+    "rating": "7.4",
+    "video": "1gCfAvT2FZBxt9BHc7wQnAGKlmqDekoEbf",
+    "cast": "Zhang Yi, Johnny Huang, Hai Qing, Du Jiang, Zhang Hanyu, Jiang Luxia, Wang Yutian, Yin Fang, Henry Prince Mak,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Red Sparrow 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333266089.jpg",
+    "rating": "6.5",
+    "video": "1LaN0hmEJxKtyKPEckdkfT2fEaTXJa9uEo",
+    "cast": "Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Charlotte Rampling, Jeremy Irons, Ciarán Hinds,"
+},
+{
+    "id": "myskdstore31",
+    "title": "The Predator 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333378666.jpg",
+    "rating": "5.6",
+    "video": "1dIw5f_Du8M7ZZUt6UYc7YLAr9q6l6GbQe",
+    "cast": "Boyd Holbrook, Trevante Rhodes, Sterling K. Brown, Jacob Tremblay, Keegan-Michael Key, Olivia Munn, Thomas Jane,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Skyscraper 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333433740.jpg",
+    "rating": "6.3",
+    "video": "1tBOPVr37Rzyp6zFFo8IIjYYGz8yvaLFC3",
+    "cast": "Dwayne Johnson, Neve Campbell, Chin Han, Roland Møller, Noah Taylor, Byron Mann, Pablo Schreiber, McKenna Roberts,"
+},
+{
+    "id": "unknownstorage",
+    "title": "A-X-L 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333547726.jpg",
+    "rating": "6.4",
+    "video": "1tz9KnJXRCnLso9EjbThRvVtk_x51lJWfs",
+    "cast": "Alex Neustaedter, Becky G, Alex MacNicoll, Dominic Rains, Thomas Jane, Lou Taylor Pucci, Patricia De Leon,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Bombshell 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333601545.jpg",
+    "rating": "6.8",
+    "video": "10o4H4VVtP6wJSZKsfwRAGzxU-PL0CjZCn",
+    "cast": "Charlize Theron, Margot Robbie, Nicole Kidman, John Lithgow, Allison Janney, Malcolm McDowell, Kate McKinnon,"
+},
+{
+    "id": "gafoordot301",
+    "title": "Descendants 3 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333759413.jpg",
+    "rating": "7.7",
+    "video": "1k1feAKVX10vMb32lZOneiIIolGDRNZI16",
+    "cast": "Dove Cameron, Sofia Carson, Sarah Jeffery, Cameron Boyce, China Anne McClain, Booboo Stewart, Brenna D'Amico,"
+},
+{
+    "id": "LevineGaryLG3",
+    "title": "Tom Clancy's Jack Ryan 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787333979527.jpg",
+    "rating": "5.5",
+    "video": "1iRuhbJjHkS8pFuPMUVaHRYewrYXC5Vfp1",
+    "cast": ", Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments. john krasins, kiwendell pierce,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "The Intruder 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334100179.jpg",
+    "rating": "6.0",
+    "video": "1hKaGtdC1Ip2I4kMA8VdONXgSHPSXUKSBc",
+    "cast": "Michael Ealy, Joseph Sikora, Meagan Good, Alvina August, Dennis Quaid, Erica Cerra, Kurt Evans, Carolyn Anderson,"
+},
+{
+    "id": "likodot301",
+    "title": "Hellboy 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334157192.jpg",
+    "rating": "5.6",
+    "video": "1o6T96QyxxK45TpNSWUSXz-H0Yrq0Qi_Qb",
+    "cast": "David Harbour, Milla Jovovich, Ian McShane, Sasha Lane, Daniel Dae Kim, Thomas Haden Church, Stephen Graham,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Once Upon a Time... in Hollywood 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334210811.jpg",
+    "rating": "7.4",
+    "video": "12UdUjqtzSSkxWjj2ueLXwZG0pSQq-YI61",
+    "cast": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch, Margaret Qualley, Timothy Olyphant, Julia Butters,"
+},
+{
+    "id": "jmatthes903",
+    "title": "Love Shots 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334254721.jpg",
+    "rating": "10.0",
+    "video": "1D9ngjrzz81OOztnDr5xgY7WqMM3nqoV89",
+    "cast": "Anvita Rai, Ravnit Singh, Rajesh Puri, Sudha Chandran, An erotic drama film directed by Prithviraj Oberoi,"
+},
+{
+    "id": "jmatthes903",
+    "title": "Holiday Rush 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334316761.jpg",
+    "rating": "5.6",
+    "video": "1lrVLtC9ua2Xvha8-pw8ZfmnlpF9DUJ8ql",
+    "cast": "Sonequa Martin-Green, La La Anthony, Deon Cole, Stormi Maya, Tamala Jones, Romany Malco, Roscoe Orman, Darlene Love,"
+},
+{
+    "id": "jmatthes903",
+    "title": "Beneath Us 2020",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334381531.jpg",
+    "rating": "5.7",
+    "video": "1gvLs5xJA-V6xOHsu-PyWSR_9xqpIWFo1j",
+    "cast": "Lynn Collins, Rigo Sanchez, Josue Aguirre, James Tupper, Roberto Sanchez, Thomas Chavira, Nicholas Gonzalez, Edy Ganem,"
+},
+{
+    "id": "na0246491",
+    "title": "The Irishman 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334434701.jpg",
+    "rating": "7.6",
+    "video": "1yp2nk2yLvRZqq7vKt0JX4ZZj96iDb3pN6",
+    "cast": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel, Ray Romano, Bobby Cannavale, Anna Paquin, Stephen Graham,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Past Shadows 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334482715.jpg",
+    "rating": "1.0",
+    "video": "1eu89bMWPk8EISjCY_cE9irozjEeXiVcZc",
+    "cast": "Robert Shepherd, Jenn Gotzon Chandler, Corbin Bernsen, Isaac Bills, Devin Albert, Joel King, James R. Sanzo,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Jurassic Hunt 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334531861.jpg",
+    "rating": "5.0",
+    "video": "11m6RtNQrSCS1E5TzUoenfgaXrpulCeAua",
+    "cast": "Courtney Loggins, Ruben Pla, Tarkan Dospil, Joston Theney, Antuone Torbert, Heath C. Heine,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "Incision 2020",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334585056.jpg",
+    "rating": "5.4",
+    "video": "1oBt3qKNJvgPQnA5NCUXNk6IzzJsEOMpPl",
+    "cast": "Korrina Rico, Lee Kholafai, Costas Mandylor, Caylee Cowan, Kev Adams, Jonathan McDaniel, Olga Safari, Tristan Tales,"
+},
+{
+    "id": "adalopk29",
+    "title": "El último invierno 2018",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334635122.jpg",
+    "rating": "6.0",
+    "video": "18_wluGOSl1_FtwQQoHvsRqiQQ_5iAKtft",
+    "cast": "Eduardo Castejón, Eva Marciel, Bárbara de Lema, Lola Baldrich, Chanel Terrero, Ana María Vidal, Míchel Tejerina,"
+},
+{
+    "id": "mymovieapps105",
+    "title": "The Protégé 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334701032.jpg",
+    "rating": "6.6",
+    "video": "1AnLmDGVTu107MrEzSfDpY09FKFWz2upQw",
+    "cast": "Maggie Q, Samuel L. Jackson, Michael Keaton, David Rintoul, Patrick Malahide, Ray Fearon, Ori Pfeffer, Robert Patrick,"
+},
+{
+    "id": "pksirajee",
+    "title": "Christmas Waltz 2020",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334758212.jpg",
+    "rating": "7.0",
+    "video": "1cDt5GTT5J544tntpxVapvqf249jb4Ntoi",
+    "cast": "Lacey Chabert, Will Kemp, Marco Soriano, Julia Harnett, Lane Edwards, Beatrice King, Chris Cope, John Talan Church,"
+},
+{
+    "id": "pksirajee",
+    "title": "Swept Up by Christmas 2020",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334813377.jpg",
+    "rating": "5.7",
+    "video": "1P-vheuZmGRuI3n4mxrqXK9sp79OpdjdC5",
+    "cast": "Lindy Booth, Justin Bruening, Jillian Harris, Jessica Abruzzese, Tristan D. Lalla, Vlasta Vrana, Jane Wheeler,"
+},
+{
+    "id": "pksirajee",
+    "title": "Summer Knight 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334859120.jpg",
+    "rating": "6.0",
+    "video": "1duEVms2zZvPwCnc-uy7bci09F3hi4Sy-2",
+    "cast": "Ludi Lin, Huang Lu, Ji Lingchen, Xing You, Summer, 1997. In a small community in southwest China,"
+},
+{
+    "id": "primecinemawatch",
+    "title": "The Tower 2012",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787334970346.jpg",
+    "rating": "7.0",
+    "video": "1iwXuPebJWsEs8K_v5GFnAAG0HEFpTZsDb",
+    "cast": "Sul Kyung-gu, Son Ye-jin, Kim Sang-kyung, Jo Min-ah, Do Ji-han, Ahn Sung-ki, Lee Han-wi, Cha In-pyo, Song Jae-ho,"
+},
+{
+    "id": "rajaberister",
+    "title": "Another Girl 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787335033958.jpg",
+    "rating": "4.9",
+    "video": "1-oqzUmCaHlY0v2y19063sJOhYE91NKs8p",
+    "cast": "Sammi Hanratty, Peter Gadiot, Paul Rush, Peggy Goss, Jessica Richards, Adrienne Rose White, Angela Fornero,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Amateurs 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787335119356.jpg",
+    "rating": "5.7",
+    "video": "1KylHGBncn4EB0djOtbd4SeUwXXDhbDPH4",
+    "cast": "Wojciech Solarz, Roma Gąsiorowska, Mariusz Bonaszewski, Anna Dymna, Małgorzata Zajączkowska, Krzysztof Kowalewski,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Amaraica 2020",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787337879380.jpg",
+    "rating": "5.5",
+    "video": "1OZSQAKqzIV0tsVxuEICaaYkCulC58vNIy",
+    "cast": "Gerardo Davila, Nikki Dixon, Carl Bailey, Richard Haylor, Lynn Andrews III, Edgar Arreola, Allen Cummins,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Venom: Let There Be Carnage 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787337932473.jpg",
+    "rating": "6.7",
+    "video": "1MmjL1MTHWJIG8UEqLGGjf0yhXnnXRyGGu",
+    "cast": "Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris, Reid Scott, Stephen Graham, Peggy Lu, Sian Webber,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Police Story 3: Super Cop 1992",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787337991461.jpg",
+    "rating": "6.9",
+    "video": "1Jl3r_Qbr-9nVLpkub4iI2Ur3O9Lv1BkQm",
+    "cast": "Jackie Chan, Michelle Yeoh, Maggie Cheung, Kenneth Tsang, Yuen Wah, Bill Tung Biu, Josephine Koo Mei-Wah,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Getting Naked: A Burlesque Story 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787338179486.jpg",
+    "rating": "4.3",
+    "video": "1w80AKSRF3OVJHZyoju4pDIO7arbyGtwyh",
+    "cast": "Darlinda Just Darlinda, Gal Friday, Hazel Honeysuckle, James Habacker, Jezebel Express, Julie Atlas Muz, Minnie Tonka,"
+},
+{
+    "id": "myskdstore30",
+    "title": "Guardians of the Galaxy Vol. 2 2017",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787338227402.jpg",
+    "rating": "7.6",
+    "video": "104-dIEkITlx59yIJWpq5ZIEA7nw-bh3xr",
+    "cast": "Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Kurt Russell, Michael Rooker, Karen Gillan,"
+},
+{
+    "id": "myskdstore31",
+    "title": "Ford v Ferrari 2019",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787338300981.jpg",
+    "rating": "8.0",
+    "video": "1nBiJVfNfVtgfbXL82kmWztSS_dZVxW_ba",
+    "cast": "Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe, Josh Lucas, Noah Jupe, Tracy Letts, Remo Girone,"
+},
+{
+    "id": "debasispatrastore105",
+    "title": "The Woman King 2022",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787411523052.jpg",
+    "rating": "7.6",
+    "video": "1yW35VWLqhLdlxB4ysAmRXA4Leb6F3jxs2",
+    "cast": "Viola Davis, Thuso Mbedu, Lashana Lynch, Sheila Atim, John Boyega, Jordan Bolger, Hero Fiennes Tiffin, Jimmy Odukoya,"
+},
+{
+    "id": "myskdstore30",
+    "title": "The Devil Below 2021",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787411585460.jpg",
+    "rating": "4.6",
+    "video": "11qdRpD2E3TRZyj3euJ338QQGJzCbepkdr",
+    "cast": "Alicia Sanz, Adan Canto, Will Patton, Zach Avery, Chinaza Uche, Jonathan Sadowski, Jesse LaTourette,"
+},
+{
+    "id": "debasispatrastore105",
+    "title": "Black Adam 2022",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787411801982.jpg",
+    "rating": "6.8",
+    "video": "1AjhsleHbMEqSmA8JNUsBJKfRsDgkET7l9",
+    "cast": "Dwayne Johnson, Aldis Hodge, Noah Centineo, Sarah Shahi, Quintessa Swindell, Marwan Kenzari, Mo Amer, Bodhi Sabongui,"
+},
+{
+    "id": "na0246491",
+    "title": "Jurassic Park III 2001",
+    "category": "Hollywood Hindi Dubbed",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/5/1787412742508.jpg",
+    "rating": "6.2",
+    "video": "1BEVUUBWs6JfjLVyIti7yqr_6R8IKu4mpr",
+    "cast": "Sam Neill, William H. Macy, Téa Leoni, Alessandro Nivola, Trevor Morgan, Michael Jeter, John Diehl, Bruce A. Young,"
+},
+{
     "id": "kajolstorege2",
     "title": "My Lovely Liar S01 2023",
     "category": "Web Series",
