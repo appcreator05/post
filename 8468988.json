@@ -1,6 +1,82 @@
 [
 {
     "id": "wb webmplex",
+    "title": "Still 17 S01 2018",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/Still 17 S01 2018.jpg",
+    "rating": "6.9",
+    "cast": "Ahn Hyo-seop, Ahn Seung-gyun, Jo Hyun-sik, Jung Yoo-jin, Kim Min-Seo, Lee Do-hyun, Park Si-eun",
+    "description": "",
+    "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E02.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E03.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E04.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E05.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E06.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E07.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E08.mp4"
+      },
+    {
+        "title": "Episode 9",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E09.mp4"
+      },
+    {
+        "title": "Episode 10",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E10.mp4"
+      },
+    {
+        "title": "Episode 11",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E11.mp4"
+      },
+    {
+        "title": "Episode 12",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E12.mp4"
+      },
+    {
+        "title": "Episode 13",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E13.mp4"
+      },
+    {
+        "title": "Episode 14",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E14.mp4"
+      },
+    {
+        "title": "Episode 15",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E15.mp4"
+      },
+    {
+        "title": "Episode 16",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/cfghf/Still.17.S01.E16.mp4"
+      }
+    ]
+  },
+{
+    "id": "wb webmplex",
     "title": "The Frog S01 2024",
     "category": "Web Series",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/The Frog S01 2024.jpg",
