@@ -1,5 +1,68 @@
 [
 {
+    "id": "ws webmplex",
+    "title": "The Great Indian Kapil Show 2024",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/768@main/img/The Great Indian Kapil Show 2024.jpg",
+    "rating": "7.1",
+    "cast": "The Kapil Sharma Show Full Episode Kapil Sharma, Sunil Grover, Kiku Sharda",
+    "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E02.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E03.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E04.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E05.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E06.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E07.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E08.mp4"
+      },
+    {
+        "title": "Episode 9",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E09.mp4"
+      },
+    {
+        "title": "Episode 10",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E10.mp4"
+      },
+    {
+        "title": "Episode 11",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E11.mp4"
+      },
+    {
+        "title": "Episode 12",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E12.mp4"
+      },
+    {
+        "title": "Episode 13",
+        "link": "https://github.com/webmplex-ui/sadsa/releases/download/dgs/The_Great_Indian_Kapil_Show_S01_E13.mp4"
+      }
+    ]
+  },
+{
     "id": "wb webmplex",
     "title": "My Dearest Nemesis 2025",
     "category": "Web Series",
