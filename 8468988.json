@@ -1,5 +1,25 @@
 [
 {
+    "id": "wb webmplex",
+    "title": "The Frog S01 2024",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/The Frog S01 2024.jpg",
+    "rating": "5.6",
+    "cast": "Go Min-si, Kim Yoon-seok, Lee Jung-eun, Park Ji-hwan, Roh Yoon-seo, Ryu Hyun-kyung, Yoon Kye-sang",
+    "description": "",
+    "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/fgfd/The_Frog_2024_S01.E01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/fgfd/The_Frog_2024_S01.E01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/dsfssadf/releases/download/fgfd/The_Frog_2024_S01.E02.mp4"
+      }
+    ]
+  },
+{
     "id": "wb webnplex",
     "title": "Stranger Things S04 2022",
     "category": "Web Series",
