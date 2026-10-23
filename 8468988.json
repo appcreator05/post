@@ -1,6 +1,50 @@
 [
 {
     "id": "wb webnplex",
+    "title": "The Fame Game 2022",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/The Fame Game 2022.jpg",
+    "rating": "5.8",
+    "cast": "Gagan Arora, Lakshvir Saran, Madhuri Dixit, Manav Kaul, Muskkaan Jaferi, Rajshri Deshpande, Sanjay Kapoor, Suhasini Mulay",
+    "description": "",
+    "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_S01_E01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_S01_E01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E02.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E03.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E04.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E05.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E06.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E07.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/fgh/The_Fame_Game_2022_Hindi_S01_E08.mp4"
+      }
+    ]
+  },
+{
+    "id": "wb webnplex",
     "title": "Remember My Boy S01 2021",
     "category": "Web Series",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/rememberboy.jpg",
