@@ -1,6 +1,54 @@
 [
 {
     "id": "wb webnplex",
+    "title": "Stranger Things S04 2022",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/Stranger Things S04 2022.jpg",
+    "rating": "5.8",
+    "cast": "Caleb McLaughlin, Charlie Heaton, David Harbour, Finn Wolfhard, Gaten Matarazzo, Millie Bobby Brown, Myles Truitt, Natalia Dyer, Winona Ryder",
+    "description": "",
+    "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E02.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E03.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E04.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E05.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E06.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E07.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E08.mp4"
+      },
+    {
+        "title": "Episode 9",
+        "link": "https://github.com/webmplex-ui/gdsfsfs/releases/download/kjl/Stranger_Things_2022_Hindi_S04_E09.mp4"
+      }
+    ]
+  },
+{
+    "id": "wb webnplex",
     "title": "The Fame Game 2022",
     "category": "Web Series",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/The Fame Game 2022.jpg",
