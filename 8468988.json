@@ -1,6 +1,114 @@
 [
 {
     "id": "wb webnplex",
+    "title": "Remember My Boy S01 2021",
+    "category": "Web Series",
+    "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/rememberboy.jpg",
+    "rating": "5.9",
+    "cast": "Bubble Zhu, Daniel Zhou, Feng Chu Xuan, Feng Wanhe, Liu Huan Yu",
+    "description": "",
+    "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E01.mp4",
+    "episodes": [
+    {
+        "title": "Episode 1",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E01.mp4"
+      },
+    {
+        "title": "Episode 2",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E02.mp4"
+      },
+    {
+        "title": "Episode 3",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E03.mp4"
+      },
+    {
+        "title": "Episode 4",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E04.mp4"
+      },
+    {
+        "title": "Episode 5",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E05.mp4"
+      },
+    {
+        "title": "Episode 6",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E06.mp4"
+      },
+    {
+        "title": "Episode 7",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E07.mp4"
+      },
+    {
+        "title": "Episode 8",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E08.mp4"
+      },
+    {
+        "title": "Episode 9",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E09.mp4"
+      },
+    {
+        "title": "Episode 10",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E10.mp4"
+      },
+    {
+        "title": "Episode 11",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E11.mp4"
+      },
+    {
+        "title": "Episode 12",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E12.mp4"
+      },
+    {
+        "title": "Episode 13",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E13.mp4"
+      },
+    {
+        "title": "Episode 14",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E14.mp4"
+      },
+    {
+        "title": "Episode 15",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E15.mp4"
+      },
+    {
+        "title": "Episode 16",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E16.mp4"
+      },
+    {
+        "title": "Episode 17",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E17.mp4"
+      },
+    {
+        "title": "Episode 18",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E18.mp4"
+      },
+    {
+        "title": "Episode 19",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E19.mp4"
+      },
+    {
+        "title": "Episode 20",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E20.mp4"
+      },
+    {
+        "title": "Episode 21",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E21.mp4"
+      },
+    {
+        "title": "Episode 22",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E22.mp4"
+      },
+    {
+        "title": "Episode 23",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E23.mp4"
+      },
+    {
+        "title": "Episode 24",
+        "link": "https://github.com/webmplex-ui/xcvas/releases/download/saa/Remember.My.Boy.S01.E24.mp4"
+      }
+    ]
+  },
+{
+    "id": "wb webnplex",
     "title": "The Starry Night The Starry Sea S01 2017",
     "category": "Web Series",
     "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/The.Starry.Night The.Starry.Sea.S01.2017.jpg",
