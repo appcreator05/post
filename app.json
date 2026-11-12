@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "kajolstorege16",
     "title": "The Negotiation 2018",
     "category": "Korean Hindi Dubbed",
@@ -13012,5 +13012,14 @@
     "rating": "7.1",
     "link": "go:mm14",
     "cast": "The Kapil Sharma Show Full Episode Kapil Sharma, Sunil Grover, Kiku Sharda"
+},
+  {
+  "id": "webmplex",
+  "title": "Love Untangled 2025",
+  "category": "Korean Hindi Dubbed",
+  "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/images/1794505736343.jpg",
+  "rating": "8.2",
+  "link": "go:1652",
+  "cast": "Shin Eun-soo, Gong Myoung, Cha Woo-min, Youn Sang-hyun, Kang Mi-na, Choi Gyu-ri, Lee So-i, Shon Hee-rim, Ryu Seung-soo"
 }
 ]
