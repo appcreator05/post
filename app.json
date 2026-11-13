@@ -1,14 +1,5 @@
 [
     {
-        "id": "test",
-        "title": "Bored Silly 2000",
-        "category": "Bollywood 90s Movie",
-        "poster": "https://cdn.jsdelivr.net/gh/appcreator05/post@main/img/1794584011469.jpg",
-        "rating": "5.5",
-        "link": "go:test",
-        "cast": "Amy Farrington"
-    },
-    {
         "id": "webmplex",
         "title": "Love Untangled 2025",
         "category": "Korean Hindi Dubbed",
